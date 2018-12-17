@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 
 access_id = ''
-access_key = 'zGk2yZxPuozRBWh1IfqVoJNCLmL2iGXECifV/1XT'
+access_key = ''
 region = 'eu-west-2'
 
 endpoint = 's3.{}.amazonaws.com'.format(region)

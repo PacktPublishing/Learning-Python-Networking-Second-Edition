@@ -4,8 +4,8 @@ import requests_aws4auth as aws4auth
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 
-access_id = 'AKIAISURAZJ3FQ3JUBEQ'
-access_key = 'zGk2yZxPuozRBWh1IfqVoJNCLmL2iGXECifV/1XT'
+access_id = ''
+access_key = ''
 region = 'eu-west-2'
 
 endpoint = 's3.{}.amazonaws.com'.format(region)
