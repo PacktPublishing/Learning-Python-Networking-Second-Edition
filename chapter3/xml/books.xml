@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<book id="book1" name="Learning Python 2">
+		<title>Learning Python 2</title>
+		<publisher>Packt Publishing</publisher>
+		<numberOfChapters>13</numberOfChapters>
+		<pageCount>500</pageCount>
+		<author>Author1</author>
+		<chapters>
+			<chapter>
+				<chapterNumber>1</chapterNumber>
+				<chapterTitle>Chapter1</chapterTitle>
+				<pageCount>30</pageCount>
+			</chapter>
+			<chapter>
+				<chapterNumber>2</chapterNumber>
+				<chapterTitle>Chapter2</chapterTitle>
+				<pageCount>25</pageCount>
+			</chapter>
+		</chapters>
+	</book>
+	<book id="book2" name="Learning Python 3">
+		<title>Learning Python 3</title>
+		<publisher>Packt Publishing</publisher>
+		<numberOfChapters>10</numberOfChapters>
+		<pageCount>400</pageCount>
+		<author>Author2</author>
+		<chapters>
+			<chapter>
+				<chapterNumber>1</chapterNumber>
+				<chapterTitle>Chapter1</chapterTitle>
+				<pageCount>30</pageCount>
+			</chapter>
+			<chapter>
+				<chapterNumber>2</chapterNumber>
+				<chapterTitle>Chapter2</chapterTitle>
+				<pageCount>25</pageCount>
+			</chapter>
+		</chapters>
+	</book>
+</root>

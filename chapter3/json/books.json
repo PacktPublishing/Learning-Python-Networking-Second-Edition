@@ -1,0 +1,42 @@
+[
+{
+  "title": "Learning Python 3",
+  "author": "author",
+  "publisher": "Packt Publishing",
+  "pageCount": 500,
+  "numberOfChapters": 12,
+  "chapters":
+  [
+   {
+    "chapterNumber": 1,
+    "chapterTitle": "Python Fundamentals",
+    "pageCount": 30
+   },
+   {
+    "chapterNumber": 2,
+    "chapterTitle": "Chapter 2",
+    "pageCount": 25
+   }
+  ]
+},
+{
+  "title": "Learning Python 3",
+  "author": "author",
+  "publisher": "Packt Publishing",
+  "pageCount": 500,
+  "numberOfChapters": 12,
+  "chapters":
+  [
+   {
+    "chapterNumber": 1,
+    "chapterTitle": "Python Fundamentals",
+    "pageCount": 30
+   },
+   {
+    "chapterNumber": 2,
+    "chapterTitle": "Chapter 2",
+    "pageCount": 25
+   }
+  ]
+}
+]
