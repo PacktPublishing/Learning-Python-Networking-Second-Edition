@@ -2,20 +2,11 @@
 
 import smtplib
 
-sender = 'from@fromdomain.com'
-receivers = ['to@todomain.com']
-
-message = """From: From Person <from@fromdomain.com>
-To: To Person <to@todomain.com>
-Subject: SMTP e-mail test
-This is a test e-mail message.
-"""
-smtp = smtplib.SMTP('localhost')
+smtp = smtplib.SMTP('smtp_server')
 
 try:
-	smtp.sendmail(sender, receivers, message)
-	print("Successfully sent email")
+    smtp.sendmail('from@fromdomain.com', ['to@todomain.com'], "This is a test e-mail message")
 except SMTPException as exception:
-		print("Error: unable to send email: "+exception)
+    print("Error: unable to send email: "+exception)
 finally:
-	smtp.quit()
+    smtp.quit()

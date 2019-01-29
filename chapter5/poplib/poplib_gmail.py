@@ -2,13 +2,9 @@
 
 import poplib
 
-mailServer = 'pop.gmail.com'
-emailID = 'user@gmail.com'
-emailPassword = 'password'
-
-mailbox = poplib.POP3_SSL (mailServer, 995)
-mailbox.user(emailID)
-mailbox.pass_(emailPassword)
+mailbox = poplib.POP3_SSL ('pop.gmail.com', 995)
+mailbox.user('user@gmail.com')
+mailbox.pass_('password')
 
 EmailInformation = mailbox.stat()
 print("Number of new emails: %s ", EmailInformation)
@@ -35,9 +31,9 @@ for i in range (num_messages):
    # If it is an image, the name of the file is extracted
    elif ("image/gif" == str(content_type)):
       file_name = email.get_filename()
-      fp = open (file_name, 'wb')
-      fp.write (part.get_payload (decode = True))
-      fp.close ()
+      fp = open(file_name, 'wb')
+      fp.write(part.get_payload(decode = True))
+      fp.close()
 
 mailbox.quit()
 

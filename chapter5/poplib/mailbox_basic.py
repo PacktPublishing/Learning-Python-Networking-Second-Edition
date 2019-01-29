@@ -3,20 +3,16 @@
 import poplib
 
 mailbox = poplib.POP3_SSL("pop.gmail.com",995)
-
-user="user"
-password="password"
-
-mailbox.user(user)
-mailbox.pass_(password)
+mailbox.user("user")
+mailbox.pass_("password")
 
 print(mailbox.getwelcome())
 
-numMessages = len(mailbox.list()[1])
+messages = len(mailbox.list()[1])
 
-for i in range(numMessages):
-    for msg in mailbox.retr(i+1)[1]:
-        print(msg)
-		
+for index in range(messages):
+    for message in mailbox.retr(index+1)[1]:
+        print(message)
+ 
 mailbox.quit()
 
