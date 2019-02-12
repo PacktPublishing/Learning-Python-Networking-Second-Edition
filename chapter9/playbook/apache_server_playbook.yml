@@ -1,0 +1,17 @@
+- hosts: test-servers
+  remote_user: nahmed
+  become: true
+  vars:
+    project_root: /var/www/html
+  tasks:  
+  - name: Install Apache Webserver
+    yum: pkg=httpd state=latest
+  - name: Place the index file at project root
+    copy: src=index.html dest={{ project_root }}/index.html owner=apache group=apache mode=0644
+  - name: Enable Apache on system reboot
+    service: name=httpd enabled=yes
+    notify: restart apache
+  handlers:
+  - name: restart apache
+    service: name=httpd state=restarted
+

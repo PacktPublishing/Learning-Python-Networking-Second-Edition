@@ -1,0 +1,13 @@
+- name: My Custom Module
+  hosts: localhost
+
+  tasks:
+  - name: authenticating user service
+    user_authenticate: 
+      host: "localhost"
+      username: "username" 
+      password: "password"
+	  url :"url"
+    register: result
+
+  - debug: var=result 

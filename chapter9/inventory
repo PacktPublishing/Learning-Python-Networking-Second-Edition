@@ -1,0 +1,7 @@
+192.168.1.160
+
+[test-servers]
+192.168.1.161
+
+[production-servers]
+192.168.1.162
