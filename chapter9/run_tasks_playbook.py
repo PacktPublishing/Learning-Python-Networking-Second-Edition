@@ -1,5 +1,5 @@
-#call libraries
-import json
+#!/usr/bin/env python3
+
 from collections import namedtuple
 from ansible.parsing.dataloader import DataLoader
 from ansible.vars.manager import VariableManager
@@ -20,14 +20,13 @@ passwords = dict(vault_pass='secret')
 inventory = InventoryManager(loader=loader, sources=['/etc/ansible/hosts'])
 variable_manager = VariableManager(loader=loader, inventory=inventory)
 
-# create play with task
+# create play with tasks
 play_source = dict(
-        name = "mypythoncheck",
-        hosts = 'myrouters',
+        name = "myplaybook",
+        hosts = 'all',
         gather_facts = 'no',
         tasks = [
-            dict(action=dict(module='shell', args='hostname'), register='shell_out'),
-            dict(action=dict(module='debug', args=dict(msg='{{shell_out.stdout}}')))
+            dict(action=dict(module='ping')),
          ]
     )
 play = Play().load(play_source, variable_manager=variable_manager, loader=loader)
