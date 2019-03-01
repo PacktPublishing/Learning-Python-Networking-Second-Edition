@@ -1,477 +1,22 @@
 [
  {
-  "created_at": "Tue Dec 04 09:26:48 +0000 2018",
-  "id": 1069885723111813121,
-  "id_str": "1069885723111813121",
-  "text": "RT @FernandoBlancoS: Day of data handling with Python \ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb\ud83e\uddee @TransmitScience  #TSCourses #MachineLearning https://t.co/7Xph8cSbVQ",
+  "created_at": "Thu Feb 28 12:13:45 +0000 2019",
+  "id": 1101093095440072709,
+  "id_str": "1101093095440072709",
+  "text": "RT @Near78475438: Are you searching for Machine learning training in Bangalore then join NearLearn provides learners the combination of The\u2026",
   "truncated": false,
   "entities": {
-   "hashtags": [
-    {
-     "text": "TSCourses",
-     "indices": [
-      78,
-      88
-     ]
-    },
-    {
-     "text": "MachineLearning",
-     "indices": [
-      89,
-      105
-     ]
-    }
-   ],
+   "hashtags": [],
    "symbols": [],
    "user_mentions": [
     {
-     "screen_name": "FernandoBlancoS",
-     "name": "Fernando Blanco",
-     "id": 256666587,
-     "id_str": "256666587",
+     "screen_name": "Near78475438",
+     "name": "Near",
+     "id": 1098156577528442881,
+     "id_str": "1098156577528442881",
      "indices": [
       3,
-      19
-     ]
-    },
-    {
-     "screen_name": "TransmitScience",
-     "name": "Transmitting Science",
-     "id": 567335368,
-     "id_str": "567335368",
-     "indices": [
-      60,
-      76
-     ]
-    }
-   ],
-   "urls": [],
-   "media": [
-    {
-     "id": 1069885260173844480,
-     "id_str": "1069885260173844480",
-     "indices": [
-      106,
-      129
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "url": "https://t.co/7Xph8cSbVQ",
-     "display_url": "pic.twitter.com/7Xph8cSbVQ",
-     "expanded_url": "https://twitter.com/FernandoBlancoS/status/1069885317434490880/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "medium": {
-       "w": 900,
-       "h": 1200,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1536,
-       "h": 2048,
-       "resize": "fit"
-      },
-      "small": {
-       "w": 510,
-       "h": 680,
-       "resize": "fit"
-      }
-     },
-     "source_status_id": 1069885317434490880,
-     "source_status_id_str": "1069885317434490880",
-     "source_user_id": 256666587,
-     "source_user_id_str": "256666587"
-    }
-   ]
-  },
-  "extended_entities": {
-   "media": [
-    {
-     "id": 1069885260173844480,
-     "id_str": "1069885260173844480",
-     "indices": [
-      106,
-      129
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "url": "https://t.co/7Xph8cSbVQ",
-     "display_url": "pic.twitter.com/7Xph8cSbVQ",
-     "expanded_url": "https://twitter.com/FernandoBlancoS/status/1069885317434490880/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "medium": {
-       "w": 900,
-       "h": 1200,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1536,
-       "h": 2048,
-       "resize": "fit"
-      },
-      "small": {
-       "w": 510,
-       "h": 680,
-       "resize": "fit"
-      }
-     },
-     "source_status_id": 1069885317434490880,
-     "source_status_id_str": "1069885317434490880",
-     "source_user_id": 256666587,
-     "source_user_id_str": "256666587"
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 633514033,
-   "id_str": "633514033",
-   "name": "Gomez Cano AR",
-   "screen_name": "argcPALEO",
-   "location": "worldwide",
-   "description": "Paleontologist ~ working and learning in @TransmitScience \u00b7 @ICP_MCrusafont \n\u2022 Member of @_PMMV_ \u00b7 Twitts also from @Sepaleontologia ~\n https://t.co/OwT3r7znAP",
-   "url": "https://t.co/hEGkUknDXX",
-   "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/hEGkUknDXX",
-       "expanded_url": "https://www.researchgate.net/profile/Ana_Gomez_Cano",
-       "display_url": "researchgate.net/profile/Ana_Go\u2026",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
-    "description": {
-     "urls": [
-      {
-       "url": "https://t.co/OwT3r7znAP",
-       "expanded_url": "http://argomezcano.tumblr.com",
-       "display_url": "argomezcano.tumblr.com",
-       "indices": [
-        136,
-        159
-       ]
-      }
-     ]
-    }
-   },
-   "protected": false,
-   "followers_count": 1506,
-   "friends_count": 2838,
-   "listed_count": 141,
-   "created_at": "Thu Jul 12 06:18:14 +0000 2012",
-   "favourites_count": 11609,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": false,
-   "verified": false,
-   "statuses_count": 22585,
-   "lang": "es",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "97B7C2",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/559684296345010178/TERimotl_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/559684296345010178/TERimotl_normal.jpeg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/633514033/1520584183",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Tue Dec 04 09:25:11 +0000 2018",
-   "id": 1069885317434490880,
-   "id_str": "1069885317434490880",
-   "text": "Day of data handling with Python \ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb\ud83e\uddee @TransmitScience  #TSCourses #MachineLearning https://t.co/7Xph8cSbVQ",
-   "truncated": false,
-   "entities": {
-    "hashtags": [
-     {
-      "text": "TSCourses",
-      "indices": [
-       57,
-       67
-      ]
-     },
-     {
-      "text": "MachineLearning",
-      "indices": [
-       68,
-       84
-      ]
-     }
-    ],
-    "symbols": [],
-    "user_mentions": [
-     {
-      "screen_name": "TransmitScience",
-      "name": "Transmitting Science",
-      "id": 567335368,
-      "id_str": "567335368",
-      "indices": [
-       39,
-       55
-      ]
-     }
-    ],
-    "urls": [],
-    "media": [
-     {
-      "id": 1069885260173844480,
-      "id_str": "1069885260173844480",
-      "indices": [
-       85,
-       108
-      ],
-      "media_url": "http://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-      "url": "https://t.co/7Xph8cSbVQ",
-      "display_url": "pic.twitter.com/7Xph8cSbVQ",
-      "expanded_url": "https://twitter.com/FernandoBlancoS/status/1069885317434490880/photo/1",
-      "type": "photo",
-      "sizes": {
-       "thumb": {
-        "w": 150,
-        "h": 150,
-        "resize": "crop"
-       },
-       "medium": {
-        "w": 900,
-        "h": 1200,
-        "resize": "fit"
-       },
-       "large": {
-        "w": 1536,
-        "h": 2048,
-        "resize": "fit"
-       },
-       "small": {
-        "w": 510,
-        "h": 680,
-        "resize": "fit"
-       }
-      }
-     }
-    ]
-   },
-   "extended_entities": {
-    "media": [
-     {
-      "id": 1069885260173844480,
-      "id_str": "1069885260173844480",
-      "indices": [
-       85,
-       108
-      ],
-      "media_url": "http://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-      "url": "https://t.co/7Xph8cSbVQ",
-      "display_url": "pic.twitter.com/7Xph8cSbVQ",
-      "expanded_url": "https://twitter.com/FernandoBlancoS/status/1069885317434490880/photo/1",
-      "type": "photo",
-      "sizes": {
-       "thumb": {
-        "w": 150,
-        "h": 150,
-        "resize": "crop"
-       },
-       "medium": {
-        "w": 900,
-        "h": 1200,
-        "resize": "fit"
-       },
-       "large": {
-        "w": 1536,
-        "h": 2048,
-        "resize": "fit"
-       },
-       "small": {
-        "w": 510,
-        "h": 680,
-        "resize": "fit"
-       }
-      }
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 256666587,
-    "id_str": "256666587",
-    "name": "Fernando Blanco",
-    "screen_name": "FernandoBlancoS",
-    "location": "Cuenca native, now in Berlin",
-    "description": "Paleobiologist working on Macroecology and Macroevolution of Cenozoic Mammals @dfg_public funded PhD Student at @MfNBerlin ~~~~~Also at @_pmmv_",
-    "url": "https://t.co/ifSNE8uwq8",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/ifSNE8uwq8",
-        "expanded_url": "https://www.researchgate.net/profile/Fernando_Blanco10",
-        "display_url": "researchgate.net/profile/Fernan\u2026",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 412,
-    "friends_count": 849,
-    "listed_count": 13,
-    "created_at": "Wed Feb 23 20:35:17 +0000 2011",
-    "favourites_count": 2371,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 9207,
-    "lang": "es",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "ABB8C2",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1030814760420433920/w7irar7A_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030814760420433920/w7irar7A_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/256666587/1527083325",
-    "profile_link_color": "4A913C",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "F0F082",
-    "profile_text_color": "615F61",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 1,
-   "favorite_count": 2,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 1,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:26:22 +0000 2018",
-  "id": 1069885612402982913,
-  "id_str": "1069885612402982913",
-  "text": "RT @AnalyticsVidhya: Comprehensive #course on #NaturalLanguageProcessing (NLP) using Python-covering #textprocessing #textcleaning, social\u2026",
-  "truncated": false,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "course",
-     "indices": [
-      35,
-      42
-     ]
-    },
-    {
-     "text": "NaturalLanguageProcessing",
-     "indices": [
-      46,
-      72
-     ]
-    },
-    {
-     "text": "textprocessing",
-     "indices": [
-      101,
-      116
-     ]
-    },
-    {
-     "text": "textcleaning",
-     "indices": [
-      117,
-      130
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "AnalyticsVidhya",
-     "name": "Analytics Vidhya",
-     "id": 2311645130,
-     "id_str": "2311645130",
-     "indices": [
-      3,
-      19
+      16
      ]
     }
    ],
@@ -481,19 +26,214 @@
    "iso_language_code": "en",
    "result_type": "recent"
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source": "<a href=\"https://santchi.co.uk\" rel=\"nofollow\">Santchi App</a>",
   "in_reply_to_status_id": null,
   "in_reply_to_status_id_str": null,
   "in_reply_to_user_id": null,
   "in_reply_to_user_id_str": null,
   "in_reply_to_screen_name": null,
   "user": {
-   "id": 593247788,
-   "id_str": "593247788",
-   "name": "Abhishek Singh",
-   "screen_name": "Pagal_Thakur",
-   "location": "Inst. of National Importance",
-   "description": "No bio only O's and 1's.\nData Science Enthusiast.\n#TheDATA",
+   "id": 3060444101,
+   "id_str": "3060444101",
+   "name": "Santchi",
+   "screen_name": "SantchiWeb",
+   "location": "Wirral",
+   "description": "We create fresh, modern web spaces tailored to the financial services sector. We\u2019ve been working in the industry with IFAs for over 10 years.",
+   "url": "http://t.co/wUvfn3OsAQ",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/wUvfn3OsAQ",
+       "expanded_url": "http://santchi.co.uk",
+       "display_url": "santchi.co.uk",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 3846,
+   "friends_count": 4942,
+   "listed_count": 120,
+   "created_at": "Wed Feb 25 01:22:52 +0000 2015",
+   "favourites_count": 996,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 135532,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/593803027737387008/RLmHoyff_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/593803027737387008/RLmHoyff_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060444101/1428591637",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Thu Feb 28 12:13:24 +0000 2019",
+   "id": 1101093006936076288,
+   "id_str": "1101093006936076288",
+   "text": "Are you searching for Machine learning training in Bangalore then join NearLearn provides learners the combination\u2026 https://t.co/JJiX1R1txV",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/JJiX1R1txV",
+      "expanded_url": "https://twitter.com/i/web/status/1101093006936076288",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       116,
+       139
+      ]
+     }
+    ]
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1098156577528442881,
+    "id_str": "1098156577528442881",
+    "name": "Near",
+    "screen_name": "Near78475438",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 0,
+    "friends_count": 2,
+    "listed_count": 0,
+    "created_at": "Wed Feb 20 09:45:05 +0000 2019",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Feb 28 12:13:24 +0000 2019",
+  "id": 1101093006936076288,
+  "id_str": "1101093006936076288",
+  "text": "Are you searching for Machine learning training in Bangalore then join NearLearn provides learners the combination\u2026 https://t.co/JJiX1R1txV",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/JJiX1R1txV",
+     "expanded_url": "https://twitter.com/i/web/status/1101093006936076288",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 1098156577528442881,
+   "id_str": "1098156577528442881",
+   "name": "Near",
+   "screen_name": "Near78475438",
+   "location": "",
+   "description": "",
    "url": null,
    "entities": {
     "description": {
@@ -501,32 +241,271 @@
     }
    },
    "protected": false,
-   "followers_count": 186,
-   "friends_count": 273,
-   "listed_count": 40,
-   "created_at": "Tue May 29 01:50:15 +0000 2012",
-   "favourites_count": 2049,
+   "followers_count": 0,
+   "friends_count": 2,
+   "listed_count": 0,
+   "created_at": "Wed Feb 20 09:45:05 +0000 2019",
+   "favourites_count": 1,
    "utc_offset": null,
    "time_zone": null,
    "geo_enabled": false,
    "verified": false,
-   "statuses_count": 938,
+   "statuses_count": 4,
    "lang": "en",
    "contributors_enabled": false,
    "is_translator": false,
    "is_translation_enabled": false,
-   "profile_background_color": "030302",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
-   "profile_background_tile": true,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/767966044673544192/l7UbxOfJ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/767966044673544192/l7UbxOfJ_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/593247788/1405330490",
-   "profile_link_color": "ABB8C2",
-   "profile_sidebar_border_color": "3C5449",
-   "profile_sidebar_fill_color": "12291F",
-   "profile_text_color": "547B61",
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
    "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": true,
+   "default_profile_image": true,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Feb 28 11:26:17 +0000 2019",
+  "id": 1101081150280351744,
+  "id_str": "1101081150280351744",
+  "text": "Register for @OpenSourceTec  Free Demo Sessions Program on @Python on 2nd March, 10 AM\n\nFor Registration:\u2026 https://t.co/9Hhk7uOwqI",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OpenSourceTec",
+     "name": "Open Source Technologies",
+     "id": 973765664618852357,
+     "id_str": "973765664618852357",
+     "indices": [
+      13,
+      27
+     ]
+    },
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      59,
+      66
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/9Hhk7uOwqI",
+     "expanded_url": "https://twitter.com/i/web/status/1101081150280351744",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      107,
+      130
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 973765664618852357,
+   "id_str": "973765664618852357",
+   "name": "Open Source Technologies",
+   "screen_name": "OpenSourceTec",
+   "location": "Hyderabad, India",
+   "description": "",
+   "url": "https://t.co/3nA5RlXNaN",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/3nA5RlXNaN",
+       "expanded_url": "http://www.opensourcetechnologies.in/",
+       "display_url": "opensourcetechnologies.in",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 18,
+   "friends_count": 34,
+   "listed_count": 0,
+   "created_at": "Wed Mar 14 03:40:00 +0000 2018",
+   "favourites_count": 0,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": false,
+   "statuses_count": 231,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/973768863060914176/SiqJyg6V_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/973768863060914176/SiqJyg6V_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/973765664618852357/1522152866",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Feb 27 10:13:39 +0000 2019",
+  "id": 1100700483453362178,
+  "id_str": "1100700483453362178",
+  "text": "Your life is a variable in @python whatever is your input , becomes the type of your life .#WednesdayWisdom",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "WednesdayWisdom",
+     "indices": [
+      91,
+      107
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      27,
+      34
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 177597159,
+   "id_str": "177597159",
+   "name": "Gundo prosper",
+   "screen_name": "prosper_One",
+   "location": "Pretoria, South Africa",
+   "description": "The Creator . The Founder .",
+   "url": "https://t.co/1eCwOouZk9",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/1eCwOouZk9",
+       "expanded_url": "http://www.gundoprosper.co.za",
+       "display_url": "gundoprosper.co.za",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 407,
+   "friends_count": 122,
+   "listed_count": 31,
+   "created_at": "Thu Aug 12 15:24:27 +0000 2010",
+   "favourites_count": 15968,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": false,
+   "statuses_count": 2866,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1055088418106028032/Dpo0NPB1_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055088418106028032/Dpo0NPB1_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/177597159/1523956980",
+   "profile_link_color": "981CEB",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
    "has_extended_profile": true,
    "default_profile": false,
    "default_profile_image": false,
@@ -539,54 +518,269 @@
   "coordinates": null,
   "place": null,
   "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Feb 27 04:15:14 +0000 2019",
+  "id": 1100610281057763330,
+  "id_str": "1100610281057763330",
+  "text": "RT @macronimous: How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foO\u2026",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "SQL",
+     "indices": [
+      80,
+      84
+     ]
+    },
+    {
+     "text": "BigData",
+     "indices": [
+      109,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "macronimous",
+     "name": "Macronimous.com",
+     "id": 15262417,
+     "id_str": "15262417",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      68,
+      75
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8meUrkk1X0",
+     "expanded_url": "http://bit.ly/2NpVhWM",
+     "display_url": "bit.ly/2NpVhWM",
+     "indices": [
+      85,
+      108
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://erased16019038.com\" rel=\"nofollow\">erased16019038</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 218379543,
+   "id_str": "218379543",
+   "name": "Ashot Nalbandyan",
+   "screen_name": "Ashot_",
+   "location": "Jax,FL",
+   "description": "Code Monkey For Life. White Hat By Night.",
+   "url": "https://t.co/qm8ZijyFnJ",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/qm8ZijyFnJ",
+       "expanded_url": "http://ashot.org/links.php",
+       "display_url": "ashot.org/links.php",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 5906,
+   "friends_count": 2870,
+   "listed_count": 159,
+   "created_at": "Mon Nov 22 05:30:06 +0000 2010",
+   "favourites_count": 131030,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 182452,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "1A1B1F",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/969331682179502081/vYy7er_C_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/969331682179502081/vYy7er_C_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/218379543/1508776388",
+   "profile_link_color": "91D2FA",
+   "profile_sidebar_border_color": "080808",
+   "profile_sidebar_fill_color": "252429",
+   "profile_text_color": "666666",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
   "retweeted_status": {
-   "created_at": "Tue Dec 04 09:18:51 +0000 2018",
-   "id": 1069883722277642240,
-   "id_str": "1069883722277642240",
-   "text": "Comprehensive #course on #NaturalLanguageProcessing (NLP) using Python-covering #textprocessing #textcleaning, soci\u2026 https://t.co/TaKsjz6dN2",
-   "truncated": true,
+   "created_at": "Mon Feb 25 11:54:01 +0000 2019",
+   "id": 1100000965074272257,
+   "id_str": "1100000965074272257",
+   "text": "How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foOFd",
+   "truncated": false,
    "entities": {
     "hashtags": [
      {
-      "text": "course",
+      "text": "SQL",
       "indices": [
-       14,
-       21
+       63,
+       67
       ]
      },
      {
-      "text": "NaturalLanguageProcessing",
+      "text": "BigData",
       "indices": [
-       25,
-       51
-      ]
-     },
-     {
-      "text": "textprocessing",
-      "indices": [
-       80,
-       95
-      ]
-     },
-     {
-      "text": "textcleaning",
-      "indices": [
-       96,
-       109
+       92,
+       100
       ]
      }
     ],
     "symbols": [],
-    "user_mentions": [],
+    "user_mentions": [
+     {
+      "screen_name": "Python",
+      "name": "Python",
+      "id": 765482,
+      "id_str": "765482",
+      "indices": [
+       51,
+       58
+      ]
+     }
+    ],
     "urls": [
      {
-      "url": "https://t.co/TaKsjz6dN2",
-      "expanded_url": "https://twitter.com/i/web/status/1069883722277642240",
-      "display_url": "twitter.com/i/web/status/1\u2026",
+      "url": "https://t.co/8meUrkk1X0",
+      "expanded_url": "http://bit.ly/2NpVhWM",
+      "display_url": "bit.ly/2NpVhWM",
       "indices": [
-       117,
-       140
+       68,
+       91
       ]
+     }
+    ],
+    "media": [
+     {
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
+      "indices": [
+       101,
+       124
+      ],
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 664,
+        "h": 680,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 1229,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
+      "indices": [
+       101,
+       124
+      ],
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 664,
+        "h": 680,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 1229,
+        "resize": "fit"
+       }
+      }
      }
     ]
    },
@@ -594,27 +788,27 @@
     "iso_language_code": "en",
     "result_type": "recent"
    },
-   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_user_id": null,
    "in_reply_to_user_id_str": null,
    "in_reply_to_screen_name": null,
    "user": {
-    "id": 2311645130,
-    "id_str": "2311645130",
-    "name": "Analytics Vidhya",
-    "screen_name": "AnalyticsVidhya",
-    "location": "",
-    "description": "Building the nextgen data science ecosystem https://t.co/NFpZjHZRSI Start here with #DataScience | #Analytics | #MachineLearning I #BigData I #Datamining",
-    "url": "https://t.co/Nvpdo20RGO",
+    "id": 15262417,
+    "id_str": "15262417",
+    "name": "Macronimous.com",
+    "screen_name": "macronimous",
+    "location": "GLOBAL",
+    "description": "Web development, iOS & Android development, SEO/SMO techniques, Responsive UI, UX, Opensource apps, Useful web tools and life around technology!",
+    "url": "https://t.co/uH60PMawDo",
     "entities": {
      "url": {
       "urls": [
        {
-        "url": "https://t.co/Nvpdo20RGO",
-        "expanded_url": "http://www.analyticsvidhya.com/",
-        "display_url": "analyticsvidhya.com",
+        "url": "https://t.co/uH60PMawDo",
+        "expanded_url": "https://www.macronimous.com",
+        "display_url": "macronimous.com",
         "indices": [
          0,
          23
@@ -623,44 +817,35 @@
       ]
      },
      "description": {
-      "urls": [
-       {
-        "url": "https://t.co/NFpZjHZRSI",
-        "expanded_url": "http://bit.ly/1Urbzxw",
-        "display_url": "bit.ly/1Urbzxw",
-        "indices": [
-         44,
-         67
-        ]
-       }
-      ]
+      "urls": []
      }
     },
     "protected": false,
-    "followers_count": 18794,
-    "friends_count": 349,
-    "listed_count": 1277,
-    "created_at": "Sun Jan 26 10:48:31 +0000 2014",
-    "favourites_count": 1250,
+    "followers_count": 2127,
+    "friends_count": 521,
+    "listed_count": 3294,
+    "created_at": "Sat Jun 28 11:39:18 +0000 2008",
+    "favourites_count": 2321,
     "utc_offset": null,
     "time_zone": null,
-    "geo_enabled": true,
+    "geo_enabled": false,
     "verified": false,
-    "statuses_count": 19222,
+    "statuses_count": 77077,
     "lang": "en",
     "contributors_enabled": false,
     "is_translator": false,
     "is_translation_enabled": false,
-    "profile_background_color": "131516",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "E6723C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/859289443311775744/75uPOUUi_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859289443311775744/75uPOUUi_normal.jpg",
-    "profile_link_color": "009999",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15262417/1504584586",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "FFA724",
+    "profile_text_color": "7A2626",
     "profile_use_background_image": true,
     "has_extended_profile": false,
     "default_profile": false,
@@ -675,226 +860,15 @@
    "place": null,
    "contributors": null,
    "is_quote_status": false,
-   "retweet_count": 1,
-   "favorite_count": 0,
+   "retweet_count": 5,
+   "favorite_count": 6,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
    "lang": "en"
   },
   "is_quote_status": false,
-  "retweet_count": 1,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:25:30 +0000 2018",
-  "id": 1069885394580312064,
-  "id_str": "1069885394580312064",
-  "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe Glad to hear you are well! So excited now. Wish there was more from the UK on here. I'm OK, in class now. Re\u2026 https://t.co/ZPKLIAyJJL",
-  "truncated": true,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [],
-   "urls": [
-    {
-     "url": "https://t.co/ZPKLIAyJJL",
-     "expanded_url": "https://twitter.com/i/web/status/1069885394580312064",
-     "display_url": "twitter.com/i/web/status/1\u2026",
-     "indices": [
-      117,
-      140
-     ]
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 39440257,
-   "id_str": "39440257",
-   "name": "j e n n i f e r      o p a l",
-   "screen_name": "_jenniferopal",
-   "location": "London, England",
-   "description": "\ud83d\udccd|\ud83c\uddec\ud83c\udde7 \ud83d\udddd|\ud83c\udde8\ud83c\udde9                     \n\ud83d\udc69\ud83c\udffe\u200d\ud83d\udcbb|c\u014dd\u012bng by d\u0101y \u2661\n\ud83c\udf3b|seek\u012bng h\u0101pp\u012bness t\u014d\u014d\u2661\n\ud83d\udc11|R\u0113v 3:8 \u2661\u2020\n.    \n.",
-   "url": "https://t.co/STsMpDSe3Y",
-   "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/STsMpDSe3Y",
-       "expanded_url": "https://www.instagram.com/_jenniferopal",
-       "display_url": "instagram.com/_jenniferopal",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 1027,
-   "friends_count": 559,
-   "listed_count": 30,
-   "created_at": "Tue May 12 05:17:27 +0000 2009",
-   "favourites_count": 3416,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": false,
-   "verified": false,
-   "statuses_count": 33592,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "642D8B",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
-   "profile_background_tile": true,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1069641111399006208/_lyGIV-U_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069641111399006208/_lyGIV-U_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/39440257/1543106670",
-   "profile_link_color": "981CEB",
-   "profile_sidebar_border_color": "65B0DA",
-   "profile_sidebar_fill_color": "7AC3EE",
-   "profile_text_color": "3D1957",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": true,
-  "quoted_status_id": 1069691464974823424,
-  "quoted_status_id_str": "1069691464974823424",
-  "quoted_status": {
-   "created_at": "Mon Dec 03 20:34:53 +0000 2018",
-   "id": 1069691464974823424,
-   "id_str": "1069691464974823424",
-   "text": "@_jenniferopal Yeeeaah!! UK stand up!! I'm gd thanks just glad to see I'm no alone in this!! How are you?",
-   "truncated": false,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [
-     {
-      "screen_name": "_jenniferopal",
-      "name": "j e n n i f e r      o p a l",
-      "id": 39440257,
-      "id_str": "39440257",
-      "indices": [
-       0,
-       14
-      ]
-     }
-    ],
-    "urls": []
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-   "in_reply_to_status_id": 1069690033647616000,
-   "in_reply_to_status_id_str": "1069690033647616000",
-   "in_reply_to_user_id": 39440257,
-   "in_reply_to_user_id_str": "39440257",
-   "in_reply_to_screen_name": "_jenniferopal",
-   "user": {
-    "id": 3666732089,
-    "id_str": "3666732089",
-    "name": "Onye (Design Blac)",
-    "screen_name": "designblac_",
-    "location": "London, England",
-    "description": "UX/Brand Designer  #DigitalDesign #branding\nMy name is Onye and I always design in black first #ItsCrucial #trustMe",
-    "url": "https://t.co/IQpwuE0W56",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/IQpwuE0W56",
-        "expanded_url": "https://www.behance.net/onyespen3ba5",
-        "display_url": "behance.net/onyespen3ba5",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 72,
-    "friends_count": 92,
-    "listed_count": 5,
-    "created_at": "Tue Sep 15 18:52:02 +0000 2015",
-    "favourites_count": 603,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 758,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1069742712176476161/Bi8Xq_rU_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069742712176476161/Bi8Xq_rU_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3666732089/1532288168",
-    "profile_link_color": "ABB8C2",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "favorited": false,
-   "retweeted": false,
-   "lang": "en"
-  },
-  "retweet_count": 0,
+  "retweet_count": 5,
   "favorite_count": 0,
   "favorited": false,
   "retweeted": false,
@@ -902,118 +876,60 @@
   "lang": "en"
  },
  {
-  "created_at": "Tue Dec 04 09:25:11 +0000 2018",
-  "id": 1069885317434490880,
-  "id_str": "1069885317434490880",
-  "text": "Day of data handling with Python \ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb\ud83e\uddee @TransmitScience  #TSCourses #MachineLearning https://t.co/7Xph8cSbVQ",
+  "created_at": "Wed Feb 27 02:58:59 +0000 2019",
+  "id": 1100591096042831873,
+  "id_str": "1100591096042831873",
+  "text": "RT @macronimous: How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foO\u2026",
   "truncated": false,
   "entities": {
    "hashtags": [
     {
-     "text": "TSCourses",
+     "text": "SQL",
      "indices": [
-      57,
-      67
+      80,
+      84
      ]
     },
     {
-     "text": "MachineLearning",
+     "text": "BigData",
      "indices": [
-      68,
-      84
+      109,
+      117
      ]
     }
    ],
    "symbols": [],
    "user_mentions": [
     {
-     "screen_name": "TransmitScience",
-     "name": "Transmitting Science",
-     "id": 567335368,
-     "id_str": "567335368",
+     "screen_name": "macronimous",
+     "name": "Macronimous.com",
+     "id": 15262417,
+     "id_str": "15262417",
      "indices": [
-      39,
-      55
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      68,
+      75
      ]
     }
    ],
-   "urls": [],
-   "media": [
+   "urls": [
     {
-     "id": 1069885260173844480,
-     "id_str": "1069885260173844480",
+     "url": "https://t.co/8meUrkk1X0",
+     "expanded_url": "http://bit.ly/2NpVhWM",
+     "display_url": "bit.ly/2NpVhWM",
      "indices": [
       85,
       108
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "url": "https://t.co/7Xph8cSbVQ",
-     "display_url": "pic.twitter.com/7Xph8cSbVQ",
-     "expanded_url": "https://twitter.com/FernandoBlancoS/status/1069885317434490880/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "medium": {
-       "w": 900,
-       "h": 1200,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1536,
-       "h": 2048,
-       "resize": "fit"
-      },
-      "small": {
-       "w": 510,
-       "h": 680,
-       "resize": "fit"
-      }
-     }
-    }
-   ]
-  },
-  "extended_entities": {
-   "media": [
-    {
-     "id": 1069885260173844480,
-     "id_str": "1069885260173844480",
-     "indices": [
-      85,
-      108
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dtj--cMWoAAg9q5.jpg",
-     "url": "https://t.co/7Xph8cSbVQ",
-     "display_url": "pic.twitter.com/7Xph8cSbVQ",
-     "expanded_url": "https://twitter.com/FernandoBlancoS/status/1069885317434490880/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "medium": {
-       "w": 900,
-       "h": 1200,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1536,
-       "h": 2048,
-       "resize": "fit"
-      },
-      "small": {
-       "w": 510,
-       "h": 680,
-       "resize": "fit"
-      }
-     }
+     ]
     }
    ]
   },
@@ -1028,345 +944,20 @@
   "in_reply_to_user_id_str": null,
   "in_reply_to_screen_name": null,
   "user": {
-   "id": 256666587,
-   "id_str": "256666587",
-   "name": "Fernando Blanco",
-   "screen_name": "FernandoBlancoS",
-   "location": "Cuenca native, now in Berlin",
-   "description": "Paleobiologist working on Macroecology and Macroevolution of Cenozoic Mammals @dfg_public funded PhD Student at @MfNBerlin ~~~~~Also at @_pmmv_",
-   "url": "https://t.co/ifSNE8uwq8",
-   "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/ifSNE8uwq8",
-       "expanded_url": "https://www.researchgate.net/profile/Fernando_Blanco10",
-       "display_url": "researchgate.net/profile/Fernan\u2026",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 412,
-   "friends_count": 849,
-   "listed_count": 13,
-   "created_at": "Wed Feb 23 20:35:17 +0000 2011",
-   "favourites_count": 2371,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": false,
-   "verified": false,
-   "statuses_count": 9207,
-   "lang": "es",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "ABB8C2",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1030814760420433920/w7irar7A_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030814760420433920/w7irar7A_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/256666587/1527083325",
-   "profile_link_color": "4A913C",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "F0F082",
-   "profile_text_color": "615F61",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 1,
-  "favorite_count": 2,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:25:06 +0000 2018",
-  "id": 1069885296534261760,
-  "id_str": "1069885296534261760",
-  "text": "#AI, #machinelearning and #Python: Let\u2019s see how far they can go \nhttps://t.co/DRPXZwUk8z https://t.co/Ozl6byGQeF",
-  "truncated": false,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "AI",
-     "indices": [
-      0,
-      3
-     ]
-    },
-    {
-     "text": "machinelearning",
-     "indices": [
-      5,
-      21
-     ]
-    },
-    {
-     "text": "Python",
-     "indices": [
-      26,
-      33
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [],
-   "urls": [
-    {
-     "url": "https://t.co/DRPXZwUk8z",
-     "expanded_url": "https://www.information-age.com/ai-machine-learning-python-123477066/",
-     "display_url": "information-age.com/ai-machine-lea\u2026",
-     "indices": [
-      66,
-      89
-     ]
-    }
-   ],
-   "media": [
-    {
-     "id": 1069885294651064320,
-     "id_str": "1069885294651064320",
-     "indices": [
-      90,
-      113
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dtj_AcoXQAAk2jS.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dtj_AcoXQAAk2jS.jpg",
-     "url": "https://t.co/Ozl6byGQeF",
-     "display_url": "pic.twitter.com/Ozl6byGQeF",
-     "expanded_url": "https://twitter.com/InformationAge/status/1069885296534261760/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "medium": {
-       "w": 1024,
-       "h": 367,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1024,
-       "h": 367,
-       "resize": "fit"
-      },
-      "small": {
-       "w": 680,
-       "h": 244,
-       "resize": "fit"
-      }
-     }
-    }
-   ]
-  },
-  "extended_entities": {
-   "media": [
-    {
-     "id": 1069885294651064320,
-     "id_str": "1069885294651064320",
-     "indices": [
-      90,
-      113
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dtj_AcoXQAAk2jS.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dtj_AcoXQAAk2jS.jpg",
-     "url": "https://t.co/Ozl6byGQeF",
-     "display_url": "pic.twitter.com/Ozl6byGQeF",
-     "expanded_url": "https://twitter.com/InformationAge/status/1069885296534261760/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "medium": {
-       "w": 1024,
-       "h": 367,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1024,
-       "h": 367,
-       "resize": "fit"
-      },
-      "small": {
-       "w": 680,
-       "h": 244,
-       "resize": "fit"
-      }
-     }
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 19603444,
-   "id_str": "19603444",
-   "name": "Information Age",
-   "screen_name": "InformationAge",
-   "location": "UK",
-   "description": "Leading business-technology magazine and website. Dissecting innovation to drive business",
-   "url": "https://t.co/5645MEYS3q",
-   "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/5645MEYS3q",
-       "expanded_url": "https://www.information-age.com/",
-       "display_url": "information-age.com",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 14522,
-   "friends_count": 901,
-   "listed_count": 1244,
-   "created_at": "Tue Jan 27 17:32:31 +0000 2009",
-   "favourites_count": 604,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 30569,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "F0EEE9",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1011189249130057729/NerACf3J_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011189249130057729/NerACf3J_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/19603444/1537434446",
-   "profile_link_color": "34C2ED",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "has_extended_profile": false,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 0,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:24:26 +0000 2018",
-  "id": 1069885129156386816,
-  "id_str": "1069885129156386816",
-  "text": "IoT#1: Python Basics for IoT - https://t.co/DPRTa6I9ic #onlineclasses #onlinecourses",
-  "truncated": false,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "onlineclasses",
-     "indices": [
-      55,
-      69
-     ]
-    },
-    {
-     "text": "onlinecourses",
-     "indices": [
-      70,
-      84
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [],
-   "urls": [
-    {
-     "url": "https://t.co/DPRTa6I9ic",
-     "expanded_url": "http://bit.ly/2KSBnCv",
-     "display_url": "bit.ly/2KSBnCv",
-     "indices": [
-      31,
-      54
-     ]
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"https://onlinecourses.ooo\" rel=\"nofollow\">Online Courses Free</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 2238857695,
-   "id_str": "2238857695",
-   "name": "Free Online Courses",
-   "screen_name": "teachemy",
+   "id": 750020557379436544,
+   "id_str": "750020557379436544",
+   "name": "DataScienceChampion.com",
+   "screen_name": "datascichampion",
    "location": "United States",
-   "description": "#udemycoupon #coupons #deals #onlinecourses #onlineclasses #udemyfreecourses #100offudemycoupon #khanacademy #coursera #skillshare #edx #elearning #onlinecourse",
-   "url": "https://t.co/DiRfR4GDpX",
+   "description": "data edu & info @ https://t.co/VkiN9JahXO | \ud83c\udfddhttps://t.co/2Orp3SLw9v |\ud83d\udc47\ud83c\udffc",
+   "url": "https://t.co/o0J8WYjGU9",
    "entities": {
     "url": {
      "urls": [
       {
-       "url": "https://t.co/DiRfR4GDpX",
-       "expanded_url": "https://onlinecourses.ooo",
-       "display_url": "onlinecourses.ooo",
+       "url": "https://t.co/o0J8WYjGU9",
+       "expanded_url": "http://www.datasciencechampion.com",
+       "display_url": "datasciencechampion.com",
        "indices": [
         0,
         23
@@ -1375,123 +966,39 @@
      ]
     },
     "description": {
-     "urls": []
+     "urls": [
+      {
+       "url": "https://t.co/VkiN9JahXO",
+       "expanded_url": "http://datasciencechampion.com",
+       "display_url": "datasciencechampion.com",
+       "indices": [
+        18,
+        41
+       ]
+      },
+      {
+       "url": "https://t.co/2Orp3SLw9v",
+       "expanded_url": "https://www.amazon.com/Entrepreneur-Purpose-Creating-Profitable-Purpose-Filled/dp/151732095X/ref=sr_d",
+       "display_url": "amazon.com/Entrepreneur-P\u2026",
+       "indices": [
+        45,
+        68
+       ]
+      }
+     ]
     }
    },
    "protected": false,
-   "followers_count": 1982,
-   "friends_count": 3098,
-   "listed_count": 19,
-   "created_at": "Tue Dec 10 08:59:28 +0000 2013",
-   "favourites_count": 813,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 11272,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/902578948843855872/dtKCndWm_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/902578948843855872/dtKCndWm_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2238857695/1516468973",
-   "profile_link_color": "19CF86",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "has_extended_profile": false,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 0,
-  "favorite_count": 1,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:23:57 +0000 2018",
-  "id": 1069885003583111168,
-  "id_str": "1069885003583111168",
-  "text": "RT @PyLadiesBer: A little reminder next week we will be at @WikimediaDE to learn about Analyzing Intent in Text \ud83d\udcdd\n\nYou can sign up here\ud83d\udc49 ht\u2026",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "PyLadiesBer",
-     "name": "PyLadies Berlin",
-     "id": 1452231625,
-     "id_str": "1452231625",
-     "indices": [
-      3,
-      15
-     ]
-    },
-    {
-     "screen_name": "WikimediaDE",
-     "name": "WikimediaDeutschland",
-     "id": 47948264,
-     "id_str": "47948264",
-     "indices": [
-      59,
-      71
-     ]
-    }
-   ],
-   "urls": []
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"https://twitter.com/\" rel=\"nofollow\">Twictorine</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 938822597554425856,
-   "id_str": "938822597554425856",
-   "name": "Victor",
-   "screen_name": "victotara",
-   "location": "",
-   "description": "",
-   "url": null,
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 1379,
-   "friends_count": 439,
-   "listed_count": 32,
-   "created_at": "Thu Dec 07 17:28:44 +0000 2017",
-   "favourites_count": 8953,
+   "followers_count": 420,
+   "friends_count": 696,
+   "listed_count": 78,
+   "created_at": "Mon Jul 04 17:36:50 +0000 2016",
+   "favourites_count": 318,
    "utc_offset": null,
    "time_zone": null,
    "geo_enabled": false,
    "verified": false,
-   "statuses_count": 16933,
+   "statuses_count": 391,
    "lang": "en",
    "contributors_enabled": false,
    "is_translator": false,
@@ -1500,8 +1007,9 @@
    "profile_background_image_url": null,
    "profile_background_image_url_https": null,
    "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/939825647559602176/_Xsa91Df_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/939825647559602176/_Xsa91Df_normal.jpg",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1083789416538226688/QpLuzD3-_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083789416538226688/QpLuzD3-_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/750020557379436544/1547230563",
    "profile_link_color": "1DA1F2",
    "profile_sidebar_border_color": "C0DEED",
    "profile_sidebar_fill_color": "DDEEF6",
@@ -1520,765 +1028,85 @@
   "place": null,
   "contributors": null,
   "retweeted_status": {
-   "created_at": "Tue Dec 04 09:16:59 +0000 2018",
-   "id": 1069883252620623872,
-   "id_str": "1069883252620623872",
-   "text": "A little reminder next week we will be at @WikimediaDE to learn about Analyzing Intent in Text \ud83d\udcdd\n\nYou can sign up h\u2026 https://t.co/YbtkatBDNr",
-   "truncated": true,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [
-     {
-      "screen_name": "WikimediaDE",
-      "name": "WikimediaDeutschland",
-      "id": 47948264,
-      "id_str": "47948264",
-      "indices": [
-       42,
-       54
-      ]
-     }
-    ],
-    "urls": [
-     {
-      "url": "https://t.co/YbtkatBDNr",
-      "expanded_url": "https://twitter.com/i/web/status/1069883252620623872",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       117,
-       140
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 1452231625,
-    "id_str": "1452231625",
-    "name": "PyLadies Berlin",
-    "screen_name": "PyLadiesBer",
-    "location": "Berlin, Germany",
-    "description": "PyLadies is  build to get more women involved in the Python community and programming. At PyLadies we share experiences and enthusiasm. Make a contribution!",
-    "url": "https://t.co/ZVD7FDzLmV",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/ZVD7FDzLmV",
-        "expanded_url": "http://www.meetup.com/pyladies-berlin/",
-        "display_url": "meetup.com/pyladies-berli\u2026",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 766,
-    "friends_count": 141,
-    "listed_count": 23,
-    "created_at": "Thu May 23 18:35:10 +0000 2013",
-    "favourites_count": 460,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 423,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/771280579685941249/UEwbZsAv_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/771280579685941249/UEwbZsAv_normal.jpg",
-    "profile_link_color": "EE264D",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 4,
-   "favorite_count": 1,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 4,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:23:56 +0000 2018",
-  "id": 1069885003373391872,
-  "id_str": "1069885003373391872",
-  "text": "RT @PyLadiesBer: A little reminder next week we will be at @WikimediaDE to learn about Analyzing Intent in Text \ud83d\udcdd\n\nYou can sign up here\ud83d\udc49 ht\u2026",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "PyLadiesBer",
-     "name": "PyLadies Berlin",
-     "id": 1452231625,
-     "id_str": "1452231625",
-     "indices": [
-      3,
-      15
-     ]
-    },
-    {
-     "screen_name": "WikimediaDE",
-     "name": "WikimediaDeutschland",
-     "id": 47948264,
-     "id_str": "47948264",
-     "indices": [
-      59,
-      71
-     ]
-    }
-   ],
-   "urls": []
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"https://cancanit.com\" rel=\"nofollow\">DCHelper</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 925683142312235008,
-   "id_str": "925683142312235008",
-   "name": "David Cottila",
-   "screen_name": "cottila",
-   "location": "Tallinn, Estonia",
-   "description": "Hiking fan and #softwareengineer in a little part.",
-   "url": null,
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 1967,
-   "friends_count": 443,
-   "listed_count": 41,
-   "created_at": "Wed Nov 01 11:17:14 +0000 2017",
-   "favourites_count": 9838,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 18034,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/927388567520849920/GyKz1Ae-_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/927388567520849920/GyKz1Ae-_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": true,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Tue Dec 04 09:16:59 +0000 2018",
-   "id": 1069883252620623872,
-   "id_str": "1069883252620623872",
-   "text": "A little reminder next week we will be at @WikimediaDE to learn about Analyzing Intent in Text \ud83d\udcdd\n\nYou can sign up h\u2026 https://t.co/YbtkatBDNr",
-   "truncated": true,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [
-     {
-      "screen_name": "WikimediaDE",
-      "name": "WikimediaDeutschland",
-      "id": 47948264,
-      "id_str": "47948264",
-      "indices": [
-       42,
-       54
-      ]
-     }
-    ],
-    "urls": [
-     {
-      "url": "https://t.co/YbtkatBDNr",
-      "expanded_url": "https://twitter.com/i/web/status/1069883252620623872",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       117,
-       140
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 1452231625,
-    "id_str": "1452231625",
-    "name": "PyLadies Berlin",
-    "screen_name": "PyLadiesBer",
-    "location": "Berlin, Germany",
-    "description": "PyLadies is  build to get more women involved in the Python community and programming. At PyLadies we share experiences and enthusiasm. Make a contribution!",
-    "url": "https://t.co/ZVD7FDzLmV",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/ZVD7FDzLmV",
-        "expanded_url": "http://www.meetup.com/pyladies-berlin/",
-        "display_url": "meetup.com/pyladies-berli\u2026",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 766,
-    "friends_count": 141,
-    "listed_count": 23,
-    "created_at": "Thu May 23 18:35:10 +0000 2013",
-    "favourites_count": 460,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 423,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "000000",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/771280579685941249/UEwbZsAv_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/771280579685941249/UEwbZsAv_normal.jpg",
-    "profile_link_color": "EE264D",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "000000",
-    "profile_text_color": "000000",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 4,
-   "favorite_count": 1,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 4,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:23:26 +0000 2018",
-  "id": 1069884873995804672,
-  "id_str": "1069884873995804672",
-  "text": "RT @pewmethods: Interested in the differences between applying fixed and random effects models to panel data? Check out latest @pewresearch\u2026",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "pewmethods",
-     "name": "Pew Research Methods",
-     "id": 3015897974,
-     "id_str": "3015897974",
-     "indices": [
-      3,
-      14
-     ]
-    },
-    {
-     "screen_name": "pewresearch",
-     "name": "Pew Research Center",
-     "id": 22642788,
-     "id_str": "22642788",
-     "indices": [
-      127,
-      139
-     ]
-    }
-   ],
-   "urls": []
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 300090633,
-   "id_str": "300090633",
-   "name": "Mark Arjomandi",
-   "screen_name": "360unfiltered",
-   "location": "San Diego, California",
-   "description": "Math & Physics Instructor. MBTI: INTJ. Gen: X. Twitter Focus: Science, Economics, Politics, Sports, Entertainment. Retweets \u2260 Support. Zodiac: Leo. Party: @GOP.",
-   "url": null,
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 304,
-   "friends_count": 1001,
-   "listed_count": 235,
-   "created_at": "Tue May 17 05:37:15 +0000 2011",
-   "favourites_count": 20,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 26651,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "B2DFDA",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000075817808/55befc19c63c96c83af55590b363083d_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000075817808/55befc19c63c96c83af55590b363083d_normal.jpeg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/300090633/1539243887",
-   "profile_link_color": "93A644",
-   "profile_sidebar_border_color": "EEEEEE",
-   "profile_sidebar_fill_color": "FFFFFF",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": false,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Mon Dec 03 17:57:24 +0000 2018",
-   "id": 1069651833499602944,
-   "id_str": "1069651833499602944",
-   "text": "Interested in the differences between applying fixed and random effects models to panel data? Check out latest\u2026 https://t.co/lX1MQe72Tt",
-   "truncated": true,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
-     {
-      "url": "https://t.co/lX1MQe72Tt",
-      "expanded_url": "https://twitter.com/i/web/status/1069651833499602944",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       112,
-       135
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 3015897974,
-    "id_str": "3015897974",
-    "name": "Pew Research Methods",
-    "screen_name": "pewmethods",
-    "location": "Washington, D.C.",
-    "description": "Nonpartisan, non-advocacy methodology research and updates from the @Pewresearch methods team, at the forefront of the changing social science research world.",
-    "url": "http://t.co/Yynkx01G3Y",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "http://t.co/Yynkx01G3Y",
-        "expanded_url": "http://pewresearch.org/methods",
-        "display_url": "pewresearch.org/methods",
-        "indices": [
-         0,
-         22
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 7911,
-    "friends_count": 116,
-    "listed_count": 336,
-    "created_at": "Mon Feb 09 22:00:41 +0000 2015",
-    "favourites_count": 1,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 1924,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/879731983450071040/na3NSS_g_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879731983450071040/na3NSS_g_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3015897974/1494252045",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 7,
-   "favorite_count": 21,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 7,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 04 09:23:21 +0000 2018",
-  "id": 1069884852995018752,
-  "id_str": "1069884852995018752",
-  "text": "RT @larsgolenia: Monty Python's \"The Meaning of Life\" (1983) https://t.co/Y0vtiWFT8t",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "larsgolenia",
-     "name": "Lars Golenia",
-     "id": 42109403,
-     "id_str": "42109403",
-     "indices": [
-      3,
-      15
-     ]
-    }
-   ],
-   "urls": [],
-   "media": [
-    {
-     "id": 1069737748259577856,
-     "id_str": "1069737748259577856",
-     "indices": [
-      61,
-      84
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-     "url": "https://t.co/Y0vtiWFT8t",
-     "display_url": "pic.twitter.com/Y0vtiWFT8t",
-     "expanded_url": "https://twitter.com/larsgolenia/status/1069737816890990592/photo/1",
-     "type": "photo",
-     "sizes": {
-      "large": {
-       "w": 773,
-       "h": 861,
-       "resize": "fit"
-      },
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "small": {
-       "w": 610,
-       "h": 680,
-       "resize": "fit"
-      },
-      "medium": {
-       "w": 773,
-       "h": 861,
-       "resize": "fit"
-      }
-     },
-     "source_status_id": 1069737816890990592,
-     "source_status_id_str": "1069737816890990592",
-     "source_user_id": 42109403,
-     "source_user_id_str": "42109403"
-    }
-   ]
-  },
-  "extended_entities": {
-   "media": [
-    {
-     "id": 1069737748259577856,
-     "id_str": "1069737748259577856",
-     "indices": [
-      61,
-      84
-     ],
-     "media_url": "http://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-     "url": "https://t.co/Y0vtiWFT8t",
-     "display_url": "pic.twitter.com/Y0vtiWFT8t",
-     "expanded_url": "https://twitter.com/larsgolenia/status/1069737816890990592/photo/1",
-     "type": "photo",
-     "sizes": {
-      "large": {
-       "w": 773,
-       "h": 861,
-       "resize": "fit"
-      },
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "small": {
-       "w": 610,
-       "h": 680,
-       "resize": "fit"
-      },
-      "medium": {
-       "w": 773,
-       "h": 861,
-       "resize": "fit"
-      }
-     },
-     "source_status_id": 1069737816890990592,
-     "source_status_id_str": "1069737816890990592",
-     "source_user_id": 42109403,
-     "source_user_id_str": "42109403"
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 94341121,
-   "id_str": "94341121",
-   "name": "Tabea \ud83d\ude43",
-   "screen_name": "karamelhexe",
-   "location": "Mainz, Deutschland",
-   "description": "Ich muss auch manchmal lachen, wenn kein anderer wei\u00df wieso, ob aus Frust oder Freude oder Mangel an Niveau",
-   "url": null,
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 205,
-   "friends_count": 471,
-   "listed_count": 0,
-   "created_at": "Thu Dec 03 14:36:48 +0000 2009",
-   "favourites_count": 20080,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": false,
-   "verified": false,
-   "statuses_count": 8488,
-   "lang": "de",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "EBEBEB",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1061559079599067136/cYqG7_Cg_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061559079599067136/cYqG7_Cg_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/94341121/1513298667",
-   "profile_link_color": "990000",
-   "profile_sidebar_border_color": "DFDFDF",
-   "profile_sidebar_fill_color": "F3F3F3",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": false,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Mon Dec 03 23:39:04 +0000 2018",
-   "id": 1069737816890990592,
-   "id_str": "1069737816890990592",
-   "text": "Monty Python's \"The Meaning of Life\" (1983) https://t.co/Y0vtiWFT8t",
+   "created_at": "Mon Feb 25 11:54:01 +0000 2019",
+   "id": 1100000965074272257,
+   "id_str": "1100000965074272257",
+   "text": "How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foOFd",
    "truncated": false,
    "entities": {
-    "hashtags": [],
+    "hashtags": [
+     {
+      "text": "SQL",
+      "indices": [
+       63,
+       67
+      ]
+     },
+     {
+      "text": "BigData",
+      "indices": [
+       92,
+       100
+      ]
+     }
+    ],
     "symbols": [],
-    "user_mentions": [],
-    "urls": [],
+    "user_mentions": [
+     {
+      "screen_name": "Python",
+      "name": "Python",
+      "id": 765482,
+      "id_str": "765482",
+      "indices": [
+       51,
+       58
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/8meUrkk1X0",
+      "expanded_url": "http://bit.ly/2NpVhWM",
+      "display_url": "bit.ly/2NpVhWM",
+      "indices": [
+       68,
+       91
+      ]
+     }
+    ],
     "media": [
      {
-      "id": 1069737748259577856,
-      "id_str": "1069737748259577856",
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
       "indices": [
-       44,
-       67
+       101,
+       124
       ],
-      "media_url": "http://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-      "url": "https://t.co/Y0vtiWFT8t",
-      "display_url": "pic.twitter.com/Y0vtiWFT8t",
-      "expanded_url": "https://twitter.com/larsgolenia/status/1069737816890990592/photo/1",
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
       "type": "photo",
       "sizes": {
-       "large": {
-        "w": 773,
-        "h": 861,
-        "resize": "fit"
-       },
        "thumb": {
         "w": 150,
         "h": 150,
         "resize": "crop"
        },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
        "small": {
-        "w": 610,
+        "w": 664,
         "h": 680,
         "resize": "fit"
        },
-       "medium": {
-        "w": 773,
-        "h": 861,
+       "large": {
+        "w": 1200,
+        "h": 1229,
         "resize": "fit"
        }
       }
@@ -2288,37 +1116,37 @@
    "extended_entities": {
     "media": [
      {
-      "id": 1069737748259577856,
-      "id_str": "1069737748259577856",
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
       "indices": [
-       44,
-       67
+       101,
+       124
       ],
-      "media_url": "http://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/Dth40HfWoAAbhDL.jpg",
-      "url": "https://t.co/Y0vtiWFT8t",
-      "display_url": "pic.twitter.com/Y0vtiWFT8t",
-      "expanded_url": "https://twitter.com/larsgolenia/status/1069737816890990592/photo/1",
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
       "type": "photo",
       "sizes": {
-       "large": {
-        "w": 773,
-        "h": 861,
-        "resize": "fit"
-       },
        "thumb": {
         "w": 150,
         "h": 150,
         "resize": "crop"
        },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
        "small": {
-        "w": 610,
+        "w": 664,
         "h": 680,
         "resize": "fit"
        },
-       "medium": {
-        "w": 773,
-        "h": 861,
+       "large": {
+        "w": 1200,
+        "h": 1229,
         "resize": "fit"
        }
       }
@@ -2329,27 +1157,27 @@
     "iso_language_code": "en",
     "result_type": "recent"
    },
-   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_user_id": null,
    "in_reply_to_user_id_str": null,
    "in_reply_to_screen_name": null,
    "user": {
-    "id": 42109403,
-    "id_str": "42109403",
-    "name": "Lars Golenia",
-    "screen_name": "larsgolenia",
-    "location": "Hamburg",
-    "description": "Autor | Moderator | Produzent | Presseschlau | @BetonBraut | NSFW | BDSM | Poly | Flirtet mit Fangirls",
-    "url": "https://t.co/rZDu5Grz01",
+    "id": 15262417,
+    "id_str": "15262417",
+    "name": "Macronimous.com",
+    "screen_name": "macronimous",
+    "location": "GLOBAL",
+    "description": "Web development, iOS & Android development, SEO/SMO techniques, Responsive UI, UX, Opensource apps, Useful web tools and life around technology!",
+    "url": "https://t.co/uH60PMawDo",
     "entities": {
      "url": {
       "urls": [
        {
-        "url": "https://t.co/rZDu5Grz01",
-        "expanded_url": "http://www.massengeschmack.tv",
-        "display_url": "massengeschmack.tv",
+        "url": "https://t.co/uH60PMawDo",
+        "expanded_url": "https://www.macronimous.com",
+        "display_url": "macronimous.com",
         "indices": [
          0,
          23
@@ -2362,33 +1190,33 @@
      }
     },
     "protected": false,
-    "followers_count": 3410,
-    "friends_count": 167,
-    "listed_count": 37,
-    "created_at": "Sat May 23 22:22:26 +0000 2009",
-    "favourites_count": 10688,
+    "followers_count": 2127,
+    "friends_count": 521,
+    "listed_count": 3294,
+    "created_at": "Sat Jun 28 11:39:18 +0000 2008",
+    "favourites_count": 2321,
     "utc_offset": null,
     "time_zone": null,
-    "geo_enabled": true,
+    "geo_enabled": false,
     "verified": false,
-    "statuses_count": 15483,
-    "lang": "de",
+    "statuses_count": 77077,
+    "lang": "en",
     "contributors_enabled": false,
     "is_translator": false,
     "is_translation_enabled": false,
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "E6723C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1056717243801833476/YlQyl9wj_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056717243801833476/YlQyl9wj_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/42109403/1529702034",
-    "profile_link_color": "E81C4F",
-    "profile_sidebar_border_color": "5C5353",
-    "profile_sidebar_fill_color": "524D4D",
-    "profile_text_color": "080808",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15262417/1504584586",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "FFA724",
+    "profile_text_color": "7A2626",
     "profile_use_background_image": true,
-    "has_extended_profile": true,
+    "has_extended_profile": false,
     "default_profile": false,
     "default_profile_image": false,
     "following": false,
@@ -2401,15 +1229,1062 @@
    "place": null,
    "contributors": null,
    "is_quote_status": false,
-   "retweet_count": 6,
-   "favorite_count": 29,
+   "retweet_count": 5,
+   "favorite_count": 6,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
    "lang": "en"
   },
   "is_quote_status": false,
-  "retweet_count": 6,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Feb 26 23:16:29 +0000 2019",
+  "id": 1100535100029222913,
+  "id_str": "1100535100029222913",
+  "text": "RT @macronimous: How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foO\u2026",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "SQL",
+     "indices": [
+      80,
+      84
+     ]
+    },
+    {
+     "text": "BigData",
+     "indices": [
+      109,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "macronimous",
+     "name": "Macronimous.com",
+     "id": 15262417,
+     "id_str": "15262417",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      68,
+      75
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8meUrkk1X0",
+     "expanded_url": "http://bit.ly/2NpVhWM",
+     "display_url": "bit.ly/2NpVhWM",
+     "indices": [
+      85,
+      108
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 119802433,
+   "id_str": "119802433",
+   "name": "Carla Gentry",
+   "screen_name": "data_nerd",
+   "location": "Louisville, Kentucky",
+   "description": "Data Scientist & Owner Analytical-Solution  DataNerd RT \u2260 equal endorsement. Love sharing info about #DataScience #WIT  https://t.co/L9M6kSSaef",
+   "url": "https://t.co/pMtsxfDqUU",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/pMtsxfDqUU",
+       "expanded_url": "http://analytical-solution.com/MyRant.html",
+       "display_url": "analytical-solution.com/MyRant.html",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/L9M6kSSaef",
+       "expanded_url": "https://www.linkedin.com/in/datanerd13",
+       "display_url": "linkedin.com/in/datanerd13",
+       "indices": [
+        120,
+        143
+       ]
+      }
+     ]
+    }
+   },
+   "protected": false,
+   "followers_count": 52539,
+   "friends_count": 13741,
+   "listed_count": 3957,
+   "created_at": "Thu Mar 04 17:55:28 +0000 2010",
+   "favourites_count": 23358,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": true,
+   "statuses_count": 318997,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "6F6F94",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+   "profile_background_tile": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/563828727306391552/Jxxp_Nar_normal.jpeg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/563828727306391552/Jxxp_Nar_normal.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/119802433/1533569125",
+   "profile_link_color": "0048FF",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "A2B4C7",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "has_extended_profile": true,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Mon Feb 25 11:54:01 +0000 2019",
+   "id": 1100000965074272257,
+   "id_str": "1100000965074272257",
+   "text": "How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foOFd",
+   "truncated": false,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "SQL",
+      "indices": [
+       63,
+       67
+      ]
+     },
+     {
+      "text": "BigData",
+      "indices": [
+       92,
+       100
+      ]
+     }
+    ],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "Python",
+      "name": "Python",
+      "id": 765482,
+      "id_str": "765482",
+      "indices": [
+       51,
+       58
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/8meUrkk1X0",
+      "expanded_url": "http://bit.ly/2NpVhWM",
+      "display_url": "bit.ly/2NpVhWM",
+      "indices": [
+       68,
+       91
+      ]
+     }
+    ],
+    "media": [
+     {
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
+      "indices": [
+       101,
+       124
+      ],
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 664,
+        "h": 680,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 1229,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
+      "indices": [
+       101,
+       124
+      ],
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 664,
+        "h": 680,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 1229,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 15262417,
+    "id_str": "15262417",
+    "name": "Macronimous.com",
+    "screen_name": "macronimous",
+    "location": "GLOBAL",
+    "description": "Web development, iOS & Android development, SEO/SMO techniques, Responsive UI, UX, Opensource apps, Useful web tools and life around technology!",
+    "url": "https://t.co/uH60PMawDo",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/uH60PMawDo",
+        "expanded_url": "https://www.macronimous.com",
+        "display_url": "macronimous.com",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 2127,
+    "friends_count": 521,
+    "listed_count": 3294,
+    "created_at": "Sat Jun 28 11:39:18 +0000 2008",
+    "favourites_count": 2321,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 77077,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "E6723C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15262417/1504584586",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "FFA724",
+    "profile_text_color": "7A2626",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 5,
+   "favorite_count": 6,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Feb 26 21:31:26 +0000 2019",
+  "id": 1100508664043978752,
+  "id_str": "1100508664043978752",
+  "text": "@macronimous @Python thank you for sharing!",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "macronimous",
+     "name": "Macronimous.com",
+     "id": 15262417,
+     "id_str": "15262417",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      13,
+      20
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 1100000965074272257,
+  "in_reply_to_status_id_str": "1100000965074272257",
+  "in_reply_to_user_id": 15262417,
+  "in_reply_to_user_id_str": "15262417",
+  "in_reply_to_screen_name": "macronimous",
+  "user": {
+   "id": 824295666784423937,
+   "id_str": "824295666784423937",
+   "name": "SeattleDataGuy",
+   "screen_name": "SeattleDataGuy",
+   "location": "Seattle, WA",
+   "description": "#Data #Engineer, Strategy Development Consultant and All Around Data Guy #deeplearning #machinelearning  #datascience #tech #management\n\nhttps://t.co/IyXxokwXg8",
+   "url": "https://t.co/kDAyL9oCKT",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/kDAyL9oCKT",
+       "expanded_url": "https://www.linkedin.com/in/benjaminrogojan/",
+       "display_url": "linkedin.com/in/benjaminrog\u2026",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/IyXxokwXg8",
+       "expanded_url": "http://bit.ly/2uKsTVw",
+       "display_url": "bit.ly/2uKsTVw",
+       "indices": [
+        137,
+        160
+       ]
+      }
+     ]
+    }
+   },
+   "protected": false,
+   "followers_count": 12990,
+   "friends_count": 14204,
+   "listed_count": 244,
+   "created_at": "Wed Jan 25 16:39:36 +0000 2017",
+   "favourites_count": 7393,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 10546,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/830696404624379904/g9Lfd_l7_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/830696404624379904/g9Lfd_l7_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/824295666784423937/1485622326",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Feb 26 21:31:19 +0000 2019",
+  "id": 1100508632901312512,
+  "id_str": "1100508632901312512",
+  "text": "RT @macronimous: How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foO\u2026",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "SQL",
+     "indices": [
+      80,
+      84
+     ]
+    },
+    {
+     "text": "BigData",
+     "indices": [
+      109,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "macronimous",
+     "name": "Macronimous.com",
+     "id": 15262417,
+     "id_str": "15262417",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      68,
+      75
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8meUrkk1X0",
+     "expanded_url": "http://bit.ly/2NpVhWM",
+     "display_url": "bit.ly/2NpVhWM",
+     "indices": [
+      85,
+      108
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 824295666784423937,
+   "id_str": "824295666784423937",
+   "name": "SeattleDataGuy",
+   "screen_name": "SeattleDataGuy",
+   "location": "Seattle, WA",
+   "description": "#Data #Engineer, Strategy Development Consultant and All Around Data Guy #deeplearning #machinelearning  #datascience #tech #management\n\nhttps://t.co/IyXxokwXg8",
+   "url": "https://t.co/kDAyL9oCKT",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/kDAyL9oCKT",
+       "expanded_url": "https://www.linkedin.com/in/benjaminrogojan/",
+       "display_url": "linkedin.com/in/benjaminrog\u2026",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/IyXxokwXg8",
+       "expanded_url": "http://bit.ly/2uKsTVw",
+       "display_url": "bit.ly/2uKsTVw",
+       "indices": [
+        137,
+        160
+       ]
+      }
+     ]
+    }
+   },
+   "protected": false,
+   "followers_count": 12990,
+   "friends_count": 14204,
+   "listed_count": 244,
+   "created_at": "Wed Jan 25 16:39:36 +0000 2017",
+   "favourites_count": 7393,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 10546,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/830696404624379904/g9Lfd_l7_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/830696404624379904/g9Lfd_l7_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/824295666784423937/1485622326",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Mon Feb 25 11:54:01 +0000 2019",
+   "id": 1100000965074272257,
+   "id_str": "1100000965074272257",
+   "text": "How To Load Multiple Files Into Your Database With @Python And #SQL https://t.co/8meUrkk1X0 #BigData https://t.co/G86s8foOFd",
+   "truncated": false,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "SQL",
+      "indices": [
+       63,
+       67
+      ]
+     },
+     {
+      "text": "BigData",
+      "indices": [
+       92,
+       100
+      ]
+     }
+    ],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "Python",
+      "name": "Python",
+      "id": 765482,
+      "id_str": "765482",
+      "indices": [
+       51,
+       58
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/8meUrkk1X0",
+      "expanded_url": "http://bit.ly/2NpVhWM",
+      "display_url": "bit.ly/2NpVhWM",
+      "indices": [
+       68,
+       91
+      ]
+     }
+    ],
+    "media": [
+     {
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
+      "indices": [
+       101,
+       124
+      ],
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 664,
+        "h": 680,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 1229,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1100000961945370624,
+      "id_str": "1100000961945370624",
+      "indices": [
+       101,
+       124
+      ],
+      "media_url": "http://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/D0P9C_1XgAAksZe.jpg",
+      "url": "https://t.co/G86s8foOFd",
+      "display_url": "pic.twitter.com/G86s8foOFd",
+      "expanded_url": "https://twitter.com/macronimous/status/1100000965074272257/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1172,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 664,
+        "h": 680,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 1229,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 15262417,
+    "id_str": "15262417",
+    "name": "Macronimous.com",
+    "screen_name": "macronimous",
+    "location": "GLOBAL",
+    "description": "Web development, iOS & Android development, SEO/SMO techniques, Responsive UI, UX, Opensource apps, Useful web tools and life around technology!",
+    "url": "https://t.co/uH60PMawDo",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/uH60PMawDo",
+        "expanded_url": "https://www.macronimous.com",
+        "display_url": "macronimous.com",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 2127,
+    "friends_count": 521,
+    "listed_count": 3294,
+    "created_at": "Sat Jun 28 11:39:18 +0000 2008",
+    "favourites_count": 2321,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 77077,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "E6723C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15262417/1504584586",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "FFA724",
+    "profile_text_color": "7A2626",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 5,
+   "favorite_count": 6,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Feb 25 23:38:01 +0000 2019",
+  "id": 1100178133154705409,
+  "id_str": "1100178133154705409",
+  "text": "How to Create a Sentiment Analyzer with Text Classification - @Python ( #AI ) https://t.co/HLGeG05B8x https://t.co/QcfnOqdQV7",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "AI",
+     "indices": [
+      72,
+      75
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Python",
+     "name": "Python",
+     "id": 765482,
+     "id_str": "765482",
+     "indices": [
+      62,
+      69
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/HLGeG05B8x",
+     "expanded_url": "http://bit.ly/2XmFmNB",
+     "display_url": "bit.ly/2XmFmNB",
+     "indices": [
+      78,
+      101
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1100178131250565120,
+     "id_str": "1100178131250565120",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/media/D0SeLm7X0AAtaYS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/D0SeLm7X0AAtaYS.jpg",
+     "url": "https://t.co/QcfnOqdQV7",
+     "display_url": "pic.twitter.com/QcfnOqdQV7",
+     "expanded_url": "https://twitter.com/macronimous/status/1100178133154705409/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 863,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 489,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1600,
+       "h": 1151,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1100178131250565120,
+     "id_str": "1100178131250565120",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/media/D0SeLm7X0AAtaYS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/D0SeLm7X0AAtaYS.jpg",
+     "url": "https://t.co/QcfnOqdQV7",
+     "display_url": "pic.twitter.com/QcfnOqdQV7",
+     "expanded_url": "https://twitter.com/macronimous/status/1100178133154705409/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 863,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 489,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1600,
+       "h": 1151,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 15262417,
+   "id_str": "15262417",
+   "name": "Macronimous.com",
+   "screen_name": "macronimous",
+   "location": "GLOBAL",
+   "description": "Web development, iOS & Android development, SEO/SMO techniques, Responsive UI, UX, Opensource apps, Useful web tools and life around technology!",
+   "url": "https://t.co/uH60PMawDo",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/uH60PMawDo",
+       "expanded_url": "https://www.macronimous.com",
+       "display_url": "macronimous.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 2127,
+   "friends_count": 521,
+   "listed_count": 3294,
+   "created_at": "Sat Jun 28 11:39:18 +0000 2008",
+   "favourites_count": 2321,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 77077,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "E6723C",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/495468523825528832/CnrVL-sQ_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/15262417/1504584586",
+   "profile_link_color": "91D2FA",
+   "profile_sidebar_border_color": "829D5E",
+   "profile_sidebar_fill_color": "FFA724",
+   "profile_text_color": "7A2626",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
   "favorite_count": 0,
   "favorited": false,
   "retweeted": false,
