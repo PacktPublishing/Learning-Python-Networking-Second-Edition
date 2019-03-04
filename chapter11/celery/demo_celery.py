@@ -17,7 +17,7 @@ def task_execution(message,count):
 
 def main():
 	while True:
-		message = input('Enter Mensaje> ')
+		message = input('Enter Message> ')
 		count = input('Enter times appears the message> ')
 		promise = task_execution.delay(message,count)
 
