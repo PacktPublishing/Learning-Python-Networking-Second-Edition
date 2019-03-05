@@ -8,7 +8,7 @@ except (IndexError, ValueError):
 	print('Must supply an RFC number as first argument')
 	sys.exit(2)
 
-host = 'www.ietf.org'
+host = 'www.rfc-editor.org'
 port = 80
 sock = socket.create_connection((host, port))
 
