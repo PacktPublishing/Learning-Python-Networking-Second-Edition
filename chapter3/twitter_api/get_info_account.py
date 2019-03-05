@@ -16,11 +16,12 @@ def twitter_connection(file):
 	return twitter.Twitter(auth=auth)
 	 
 def get_info_twitter(tw):
-	query = tw.search.tweets(q="#python", lang="en", count="10")["statuses"]
-	for q in query:
-		for key,value in q.items():
-			if(key=='text'):
-				print(value+'\n')
+	if tw is not None:
+		query = tw.search.tweets(q="#python", lang="en", count="10")["statuses"]
+		for q in query:
+			for key,value in q.items():
+				if(key=='text'):
+					print(value+'\n')
 
 def main():
 	try:

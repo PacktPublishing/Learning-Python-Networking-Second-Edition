@@ -1,22 +1,22 @@
 [
  {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536343106867205,
-  "id_str": "1102536343106867205",
-  "text": "RT @kmshkisses: *tsuychako are out at disney world*\n\ntsuyu *gets down on one knee*: ochako, would you make me the happiest person in the wo\u2026",
+  "created_at": "Tue Mar 05 13:29:09 +0000 2019",
+  "id": 1102924007223910401,
+  "id_str": "1102924007223910401",
+  "text": "@0_hawkeye They should remember operation python.",
   "truncated": false,
   "entities": {
    "hashtags": [],
    "symbols": [],
    "user_mentions": [
     {
-     "screen_name": "kmshkisses",
-     "name": "\ud835\ude68\ud835\ude65\ud835\ude56\ud835\ude67\ud835\ude5a \ud835\ude62\ud835\ude64\ud835\ude63\ud835\ude64\ud835\ude62\ud835\ude56 \ud835\ude65\ud835\ude61\ud835\ude5a\ud835\ude56\ud835\ude68\ud835\ude5a",
-     "id": 1033142549886758914,
-     "id_str": "1033142549886758914",
+     "screen_name": "0_hawkeye",
+     "name": "Hawkeye",
+     "id": 1036288698692726785,
+     "id_str": "1036288698692726785",
      "indices": [
-      3,
-      14
+      0,
+      10
      ]
     }
    ],
@@ -26,49 +26,36 @@
    "iso_language_code": "en",
    "result_type": "recent"
   },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1102922917321465857,
+  "in_reply_to_status_id_str": "1102922917321465857",
+  "in_reply_to_user_id": 1036288698692726785,
+  "in_reply_to_user_id_str": "1036288698692726785",
+  "in_reply_to_screen_name": "0_hawkeye",
   "user": {
-   "id": 1033578333886402560,
-   "id_str": "1033578333886402560",
-   "name": "el\ud83d\udda4",
-   "screen_name": "bluebakugou",
-   "location": "ellie | minor | she/her",
-   "description": "if you want to be loved then just say so. || \ud83d\udda412.10 Jace",
-   "url": "https://t.co/tzJCGsISy0",
+   "id": 1070152247281995776,
+   "id_str": "1070152247281995776",
+   "name": "Akki",
+   "screen_name": "akkiakki973798",
+   "location": "",
+   "description": "",
+   "url": null,
    "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/tzJCGsISy0",
-       "expanded_url": "https://curiouscat.me/midoriiyaa",
-       "display_url": "curiouscat.me/midoriiyaa",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
     "description": {
      "urls": []
     }
    },
    "protected": false,
-   "followers_count": 289,
-   "friends_count": 204,
-   "listed_count": 35,
-   "created_at": "Sun Aug 26 04:54:12 +0000 2018",
-   "favourites_count": 7576,
+   "followers_count": 67,
+   "friends_count": 183,
+   "listed_count": 0,
+   "created_at": "Wed Dec 05 03:05:53 +0000 2018",
+   "favourites_count": 6600,
    "utc_offset": null,
    "time_zone": null,
    "geo_enabled": false,
    "verified": false,
-   "statuses_count": 3990,
+   "statuses_count": 5834,
    "lang": "en",
    "contributors_enabled": false,
    "is_translator": false,
@@ -77,693 +64,9 @@
    "profile_background_image_url": null,
    "profile_background_image_url_https": null,
    "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1098761070888579073/egTmta_A_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098761070888579073/egTmta_A_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033578333886402560/1550800029",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": true,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Sun Mar 03 22:13:03 +0000 2019",
-   "id": 1102331077601972224,
-   "id_str": "1102331077601972224",
-   "text": "*tsuychako are out at disney world*\n\ntsuyu *gets down on one knee*: ochako, would you make me the happiest person i\u2026 https://t.co/PKhVKC94ck",
-   "truncated": true,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
-     {
-      "url": "https://t.co/PKhVKC94ck",
-      "expanded_url": "https://twitter.com/i/web/status/1102331077601972224",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       117,
-       140
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 1033142549886758914,
-    "id_str": "1033142549886758914",
-    "name": "\ud835\ude68\ud835\ude65\ud835\ude56\ud835\ude67\ud835\ude5a \ud835\ude62\ud835\ude64\ud835\ude63\ud835\ude64\ud835\ude62\ud835\ude56 \ud835\ude65\ud835\ude61\ud835\ude5a\ud835\ude56\ud835\ude68\ud835\ude5a",
-    "screen_name": "kmshkisses",
-    "location": "\ud835\ude35\ud835\ude34\ud835\ude36\ud835\ude3a\ud835\ude36\u2019\ud835\ude34 \ud835\ude25\ud835\ude2e\ud835\ude34",
-    "description": "\ud835\ude68\ud835\ude5d\ud835\ude5e\ud835\ude63\ud835\ude68\ud835\ude64\ud835\ude6a \ud835\ude67\ud835\ude5e\ud835\ude5c\ud835\ude5d\ud835\ude69\ud835\ude68 \ud835\ude56\ud835\ude58\ud835\ude69\ud835\ude5e\ud835\ude6b\ud835\ude5e\ud835\ude68\ud835\ude69 \ud835\ude5b\ud835\ude5e\ud835\ude67\ud835\ude68\ud835\ude69, \ud835\ude59\ud835\ude6a\ud835\ude62\ud835\ude57\ud835\ude56\ud835\ude68\ud835\ude68 \ud835\ude68\ud835\ude5a\ud835\ude58\ud835\ude64\ud835\ude63\ud835\ude59 \u2727\uff65\uff9f: *\u2727\uff65\uff9f:*",
-    "url": "https://t.co/zGsxt0Hj7V",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/zGsxt0Hj7V",
-        "expanded_url": "https://curiouscat.me/monomarights?t=1549406678",
-        "display_url": "curiouscat.me/monomarights?t\u2026",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 757,
-    "friends_count": 712,
-    "listed_count": 17,
-    "created_at": "Sat Aug 25 00:02:33 +0000 2018",
-    "favourites_count": 28155,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 16288,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1099058038839889920/AvfunGDZ_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099058038839889920/AvfunGDZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033142549886758914/1550870867",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 20,
-   "favorite_count": 57,
-   "favorited": false,
-   "retweeted": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 20,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536343073185798,
-  "id_str": "1102536343073185798",
-  "text": "RT @InfiniteUpdates: [VID] 190303 KBS World Facebook Update - Unpredictable romance, \"Angel's Last Mission : Love\" starring #Myungsoo #L as\u2026",
-  "truncated": false,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "Myungsoo",
-     "indices": [
-      124,
-      133
-     ]
-    },
-    {
-     "text": "L",
-     "indices": [
-      134,
-      136
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "InfiniteUpdates",
-     "name": "\u221e Infinite Updates \u221e",
-     "id": 327289094,
-     "id_str": "327289094",
-     "indices": [
-      3,
-      19
-     ]
-    }
-   ],
-   "urls": []
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 347260805,
-   "id_str": "347260805",
-   "name": "I",
-   "screen_name": "powdersugarlove",
-   "location": "",
-   "description": "Carpe Diem \u00b0\u0b90*\uff61:\u00b0\u029a(*\u00b4 \u02d8 `*)\u025e*\uff61:\u00b0\u0b90* INFINITE\u2661INSPIRIT",
-   "url": null,
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 41,
-   "friends_count": 39,
-   "listed_count": 0,
-   "created_at": "Tue Aug 02 14:35:04 +0000 2011",
-   "favourites_count": 6984,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": false,
-   "verified": false,
-   "statuses_count": 10953,
-   "lang": "ja",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "9AE4E8",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/918120149936304130/Lv6t1kIJ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/918120149936304130/Lv6t1kIJ_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/347260805/1545181722",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "BDDCAD",
-   "profile_sidebar_fill_color": "DDFFCC",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": false,
-   "default_profile": false,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Sun Mar 03 14:49:30 +0000 2019",
-   "id": 1102219454069407744,
-   "id_str": "1102219454069407744",
-   "text": "[VID] 190303 KBS World Facebook Update - Unpredictable romance, \"Angel's Last Mission : Love\" starring #Myungsoo #L\u2026 https://t.co/Vv2I9YxRpi",
-   "truncated": true,
-   "entities": {
-    "hashtags": [
-     {
-      "text": "Myungsoo",
-      "indices": [
-       103,
-       112
-      ]
-     },
-     {
-      "text": "L",
-      "indices": [
-       113,
-       115
-      ]
-     }
-    ],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
-     {
-      "url": "https://t.co/Vv2I9YxRpi",
-      "expanded_url": "https://twitter.com/i/web/status/1102219454069407744",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       117,
-       140
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 327289094,
-    "id_str": "327289094",
-    "name": "\u221e Infinite Updates \u221e",
-    "screen_name": "InfiniteUpdates",
-    "location": "Worldwide Inspirit \u2665",
-    "description": "Dedicated to the amazing men of K-Pop's finest, INFINITE \uc778\ud53c\ub2c8\ud2b8 | An International Fanbase of INFINITE | Contact us: infiniteupdates7@gmail.com",
-    "url": "https://t.co/JpmJ03PHtC",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/JpmJ03PHtC",
-        "expanded_url": "http://infiniteupdates.net",
-        "display_url": "infiniteupdates.net",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 167826,
-    "friends_count": 56,
-    "listed_count": 1562,
-    "created_at": "Fri Jul 01 09:36:07 +0000 2011",
-    "favourites_count": 60,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": false,
-    "statuses_count": 110520,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "1A1B1F",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-    "profile_background_tile": true,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/947144143024766976/iRwJ3caF_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/947144143024766976/iRwJ3caF_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/327289094/1506338916",
-    "profile_link_color": "FAB81E",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "F0D3F0",
-    "profile_text_color": "0B1CD6",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "regular"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 293,
-   "favorite_count": 466,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 293,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536342276399105,
-  "id_str": "1102536342276399105",
-  "text": "RT @PRCA_UK: Learn about the tools, trends, and tactics that are most effective in different parts of Asia at the @ICCOpr and @PRCA_SEA sem\u2026",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "PRCA_UK",
-     "name": "PRCA",
-     "id": 37241702,
-     "id_str": "37241702",
-     "indices": [
-      3,
-      11
-     ]
-    },
-    {
-     "screen_name": "ICCOpr",
-     "name": "ICCOpr",
-     "id": 325561216,
-     "id_str": "325561216",
-     "indices": [
-      114,
-      121
-     ]
-    },
-    {
-     "screen_name": "PRCA_SEA",
-     "name": "PRCA_SEA",
-     "id": 1024681910394658824,
-     "id_str": "1024681910394658824",
-     "indices": [
-      126,
-      135
-     ]
-    }
-   ],
-   "urls": []
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 103015611,
-   "id_str": "103015611",
-   "name": "Francis Ingham",
-   "screen_name": "Ingers1975",
-   "location": "London, England",
-   "description": "Director General of the world\u2019s largest PR body - @PRCA_UK @PRCA_MENA @PRCA_SEA; Chief Executive @ICCOpr; Chairman @CommsFellowship; Executive Director @LGComms",
-   "url": "https://t.co/TXqja2i6LS",
-   "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/TXqja2i6LS",
-       "expanded_url": "http://www.prca.org.uk",
-       "display_url": "prca.org.uk",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 13200,
-   "friends_count": 14238,
-   "listed_count": 391,
-   "created_at": "Fri Jan 08 15:49:17 +0000 2010",
-   "favourites_count": 16352,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 37633,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1095755243852320768/iCl53yy8_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095755243852320768/iCl53yy8_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/103015611/1550939181",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": true,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Mon Mar 04 09:16:01 +0000 2019",
-   "id": 1102497916810379264,
-   "id_str": "1102497916810379264",
-   "text": "Learn about the tools, trends, and tactics that are most effective in different parts of Asia at the @ICCOpr and\u2026 https://t.co/VyMp9vh4TW",
-   "truncated": true,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [
-     {
-      "screen_name": "ICCOpr",
-      "name": "ICCOpr",
-      "id": 325561216,
-      "id_str": "325561216",
-      "indices": [
-       101,
-       108
-      ]
-     }
-    ],
-    "urls": [
-     {
-      "url": "https://t.co/VyMp9vh4TW",
-      "expanded_url": "https://twitter.com/i/web/status/1102497916810379264",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       114,
-       137
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 37241702,
-    "id_str": "37241702",
-    "name": "PRCA",
-    "screen_name": "PRCA_UK",
-    "location": "London",
-    "description": "With over 30,000 members, the Public Relations and Communications Association is the world\u2019s largest and most influential PR and communications membership body.",
-    "url": "https://t.co/TXqja2i6LS",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/TXqja2i6LS",
-        "expanded_url": "http://www.prca.org.uk",
-        "display_url": "prca.org.uk",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 28429,
-    "friends_count": 3658,
-    "listed_count": 863,
-    "created_at": "Sat May 02 17:34:50 +0000 2009",
-    "favourites_count": 3303,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 48413,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "BEC1C2",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1080464129473867777/dzjYR_rN_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080464129473867777/dzjYR_rN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/37241702/1546437708",
-    "profile_link_color": "F56539",
-    "profile_sidebar_border_color": "000000",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": false,
-    "has_extended_profile": false,
-    "default_profile": false,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 3,
-   "favorite_count": 2,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 3,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536342238646272,
-  "id_str": "1102536342238646272",
-  "text": "It's a hard but important read. And then let's talk security. But not here \ud83d\ude0a. #WeAreOurSecurity\u2026 https://t.co/tf4InKGsQF",
-  "truncated": true,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "WeAreOurSecurity",
-     "indices": [
-      78,
-      95
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [],
-   "urls": [
-    {
-     "url": "https://t.co/tf4InKGsQF",
-     "expanded_url": "https://twitter.com/i/web/status/1102536342238646272",
-     "display_url": "twitter.com/i/web/status/1\u2026",
-     "indices": [
-      97,
-      120
-     ]
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 18641382,
-   "id_str": "18641382",
-   "name": "Makani Themba",
-   "screen_name": "Makani_Themba",
-   "location": "Jackson, MS",
-   "description": "Author/Chief Strategist at Higher Ground Change Strategies; funkin' for human dignity and liberation.",
-   "url": "https://t.co/o3oIkNMY7J",
-   "entities": {
-    "url": {
-     "urls": [
-      {
-       "url": "https://t.co/o3oIkNMY7J",
-       "expanded_url": "http://www.highergroundstrategies.net",
-       "display_url": "highergroundstrategies.net",
-       "indices": [
-        0,
-        23
-       ]
-      }
-     ]
-    },
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 2545,
-   "friends_count": 336,
-   "listed_count": 96,
-   "created_at": "Mon Jan 05 19:10:40 +0000 2009",
-   "favourites_count": 2635,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 2611,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/2709037205/ff1fb3c299413e8bd1c77d2f3b2836b9_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2709037205/ff1fb3c299413e8bd1c77d2f3b2836b9_normal.jpeg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18641382/1375566534",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1071014262909263872/gMRJAAwO_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071014262909263872/gMRJAAwO_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070152247281995776/1543982713",
    "profile_link_color": "1DA1F2",
    "profile_sidebar_border_color": "C0DEED",
    "profile_sidebar_fill_color": "DDEEF6",
@@ -783,60 +86,77 @@
   "contributors": null,
   "is_quote_status": false,
   "retweet_count": 0,
-  "favorite_count": 0,
+  "favorite_count": 1,
   "favorited": false,
   "retweeted": false,
-  "possibly_sensitive": false,
   "lang": "en"
  },
  {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536342230036481,
-  "id_str": "1102536342230036481",
-  "text": "RT @LISANATIONS_: One thousand days since you came to our world \u2728\nOne thousand smiles you've put onto our faces \u2728\nOne thousand stars we see\u2026",
+  "created_at": "Tue Mar 05 13:29:06 +0000 2019",
+  "id": 1102923996222361608,
+  "id_str": "1102923996222361608",
+  "text": "RT @couponfree01: Udemy Free Discount - Angular Styling &amp; Animations (for Angular 2+) #udemycoupon -&gt; https://t.co/Fr7eBDz9EW\n\n#webdevelopm\u2026",
   "truncated": false,
   "entities": {
-   "hashtags": [],
+   "hashtags": [
+    {
+     "text": "udemycoupon",
+     "indices": [
+      90,
+      102
+     ]
+    }
+   ],
    "symbols": [],
    "user_mentions": [
     {
-     "screen_name": "LISANATIONS_",
-     "name": "LISANATIONS",
-     "id": 973770115442446338,
-     "id_str": "973770115442446338",
+     "screen_name": "couponfree01",
+     "name": "Coupon Free",
+     "id": 970572251090186240,
+     "id_str": "970572251090186240",
      "indices": [
       3,
       16
      ]
     }
    ],
-   "urls": []
+   "urls": [
+    {
+     "url": "https://t.co/Fr7eBDz9EW",
+     "expanded_url": "http://www.couponfree.online/2019/03/angular-styling-animations-for-angular-2.html",
+     "display_url": "couponfree.online/2019/03/angula\u2026",
+     "indices": [
+      109,
+      132
+     ]
+    }
+   ]
   },
   "metadata": {
    "iso_language_code": "en",
    "result_type": "recent"
   },
-  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source": "<a href=\"https://www.gretsky.services/\" rel=\"nofollow\">Media-Poster_V_1</a>",
   "in_reply_to_status_id": null,
   "in_reply_to_status_id_str": null,
   "in_reply_to_user_id": null,
   "in_reply_to_user_id_str": null,
   "in_reply_to_screen_name": null,
   "user": {
-   "id": 1024958747397959680,
-   "id_str": "1024958747397959680",
-   "name": "\u2112\ud835\udcb6\ud835\udcce\ud835\udcc1\ud835\udcb6.",
-   "screen_name": "lalalalayla_m",
-   "location": "\ud83c\udf08 rp \u2022 ig: lalalalalisa_m",
-   "description": "\ud835\ude3c \ud835\ude61\ud835\ude5e\ud835\ude69\ud835\ude69\ud835\ude61\ud835\ude5a \ud835\ude57\ud835\ude5e\ud835\ude69 \ud835\ude64\ud835\ude5b \ud835\ude57\ud835\ude61\ud835\ude56\ud835\ude58\ud835\ude60, \ud835\ude6c\ud835\ude5e\ud835\ude69\ud835\ude5d \ud835\ude56 \ud835\ude61\ud835\ude5e\ud835\ude69\ud835\ude69\ud835\ude61\ud835\ude5a \ud835\ude57\ud835\ude5e\ud835\ude69 \ud835\ude64\ud835\ude5b \ud835\ude65\ud835\ude5e\ud835\ude63\ud835\ude60 #LALISA #BLACKPINK \u263e \u273a \u2329 \ud83d\udd25@unofficialONE_ \u232a",
-   "url": "https://t.co/IWCXLekV4q",
+   "id": 2736397896,
+   "id_str": "2736397896",
+   "name": "Ham Gretsky",
+   "screen_name": "ham_gretsky",
+   "location": "Manhattan, NY",
+   "description": "I'm not always self aware, but when I am...Wait What? #AI #BigData #Programming #WebDevelopment #IoT #DataScience #MachineLearning #ArtificialIntelligence",
+   "url": "https://t.co/p7dovp3d8c",
    "entities": {
     "url": {
      "urls": [
       {
-       "url": "https://t.co/IWCXLekV4q",
-       "expanded_url": "https://www.instagram.com/lalalalaylla_m",
-       "display_url": "instagram.com/lalalalaylla_m",
+       "url": "https://t.co/p7dovp3d8c",
+       "expanded_url": "https://www.linkedin.com/in/hamgretsky/",
+       "display_url": "linkedin.com/in/hamgretsky/",
        "indices": [
         0,
         23
@@ -849,28 +169,28 @@
     }
    },
    "protected": false,
-   "followers_count": 48,
-   "friends_count": 70,
-   "listed_count": 1,
-   "created_at": "Thu Aug 02 10:03:03 +0000 2018",
-   "favourites_count": 791,
+   "followers_count": 7499,
+   "friends_count": 3354,
+   "listed_count": 250,
+   "created_at": "Sat Aug 16 04:06:45 +0000 2014",
+   "favourites_count": 135727,
    "utc_offset": null,
    "time_zone": null,
    "geo_enabled": false,
    "verified": false,
-   "statuses_count": 11057,
-   "lang": "th",
+   "statuses_count": 223890,
+   "lang": "en",
    "contributors_enabled": false,
    "is_translator": false,
    "is_translation_enabled": false,
    "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
    "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1100399721896542208/ZxnzJpe5_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100399721896542208/ZxnzJpe5_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024958747397959680/1551536800",
-   "profile_link_color": "FFA07A",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/872444743241703425/L6pqn7Eq_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/872444743241703425/L6pqn7Eq_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2736397896/1430889559",
+   "profile_link_color": "1B95E0",
    "profile_sidebar_border_color": "000000",
    "profile_sidebar_fill_color": "000000",
    "profile_text_color": "000000",
@@ -888,230 +208,40 @@
   "place": null,
   "contributors": null,
   "retweeted_status": {
-   "created_at": "Mon Mar 04 11:29:09 +0000 2019",
-   "id": 1102531421334167552,
-   "id_str": "1102531421334167552",
-   "text": "One thousand days since you came to our world \u2728\nOne thousand smiles you've put onto our faces \u2728\nOne thousand stars\u2026 https://t.co/764wkHxIWm",
+   "created_at": "Tue Mar 05 05:23:00 +0000 2019",
+   "id": 1102801665554493441,
+   "id_str": "1102801665554493441",
+   "text": "Udemy Free Discount - Angular Styling &amp; Animations (for Angular 2+) #udemycoupon -&gt; https://t.co/Fr7eBDz9EW\u2026 https://t.co/GOW0TnZFZB",
    "truncated": true,
    "entities": {
-    "hashtags": [],
+    "hashtags": [
+     {
+      "text": "udemycoupon",
+      "indices": [
+       72,
+       84
+      ]
+     }
+    ],
     "symbols": [],
     "user_mentions": [],
     "urls": [
      {
-      "url": "https://t.co/764wkHxIWm",
-      "expanded_url": "https://twitter.com/i/web/status/1102531421334167552",
+      "url": "https://t.co/Fr7eBDz9EW",
+      "expanded_url": "http://www.couponfree.online/2019/03/angular-styling-animations-for-angular-2.html",
+      "display_url": "couponfree.online/2019/03/angula\u2026",
+      "indices": [
+       91,
+       114
+      ]
+     },
+     {
+      "url": "https://t.co/GOW0TnZFZB",
+      "expanded_url": "https://twitter.com/i/web/status/1102801665554493441",
       "display_url": "twitter.com/i/web/status/1\u2026",
       "indices": [
        116,
        139
-      ]
-     }
-    ]
-   },
-   "metadata": {
-    "iso_language_code": "en",
-    "result_type": "recent"
-   },
-   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_user_id": null,
-   "in_reply_to_user_id_str": null,
-   "in_reply_to_screen_name": null,
-   "user": {
-    "id": 973770115442446338,
-    "id_str": "973770115442446338",
-    "name": "LISANATIONS",
-    "screen_name": "LISANATIONS_",
-    "location": "INTERNATIONAL",
-    "description": "\ud83c\udf1f LISA THE BRIGHTEST STAR \ud83c\udf1f - International fanbase for BLACKPINK LISA\u2728 Aiming to provide daily updates of Lisa \ud83d\udc9c Contact us : email / DM",
-    "url": "https://t.co/TnbbzWKCp0",
-    "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/TnbbzWKCp0",
-        "expanded_url": "http://Instagram.com/lisanations_",
-        "display_url": "Instagram.com/lisanations_",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
-     "description": {
-      "urls": []
-     }
-    },
-    "protected": false,
-    "followers_count": 45832,
-    "friends_count": 85,
-    "listed_count": 316,
-    "created_at": "Wed Mar 14 03:57:42 +0000 2018",
-    "favourites_count": 1349,
-    "utc_offset": null,
-    "time_zone": null,
-    "geo_enabled": false,
-    "verified": false,
-    "statuses_count": 7248,
-    "lang": "en",
-    "contributors_enabled": false,
-    "is_translator": false,
-    "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/975249607658676224/T_B8-sDj_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/975249607658676224/T_B8-sDj_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/973770115442446338/1521353646",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": true,
-    "default_profile_image": false,
-    "following": false,
-    "follow_request_sent": false,
-    "notifications": false,
-    "translator_type": "none"
-   },
-   "geo": null,
-   "coordinates": null,
-   "place": null,
-   "contributors": null,
-   "is_quote_status": false,
-   "retweet_count": 748,
-   "favorite_count": 847,
-   "favorited": false,
-   "retweeted": false,
-   "possibly_sensitive": false,
-   "lang": "en"
-  },
-  "is_quote_status": false,
-  "retweet_count": 748,
-  "favorite_count": 0,
-  "favorited": false,
-  "retweeted": false,
-  "lang": "en"
- },
- {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536341890453505,
-  "id_str": "1102536341890453505",
-  "text": "RT @PatriotM1A_: The Democrats are a Threat to World Peace as well as Public Safety.\nThey are the Devils Spawn!!! https://t.co/MteJXE6M8E",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "PatriotM1A_",
-     "name": "PatriotM1A",
-     "id": 762284686349574144,
-     "id_str": "762284686349574144",
-     "indices": [
-      3,
-      15
-     ]
-    }
-   ],
-   "urls": [
-    {
-     "url": "https://t.co/MteJXE6M8E",
-     "expanded_url": "https://twitter.com/PatriotM1A_/status/1102535095875969025",
-     "display_url": "twitter.com/PatriotM1A_/st\u2026",
-     "indices": [
-      114,
-      137
-     ]
-    }
-   ]
-  },
-  "metadata": {
-   "iso_language_code": "en",
-   "result_type": "recent"
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 29027457,
-   "id_str": "29027457",
-   "name": "ltlgcoach",
-   "screen_name": "ltlgcoach",
-   "location": "Sugar Land, Texas",
-   "description": "Make America Great Again #BlueLivesMatter #CodeOfVets #WinningIsNotGettingOld #TrumpPence #HoustonAstros #BoycottTheNFL #EarnedHistory #DrainTheSwamp",
-   "url": null,
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "protected": false,
-   "followers_count": 16655,
-   "friends_count": 16904,
-   "listed_count": 20,
-   "created_at": "Sun Apr 05 17:53:23 +0000 2009",
-   "favourites_count": 31650,
-   "utc_offset": null,
-   "time_zone": null,
-   "geo_enabled": true,
-   "verified": false,
-   "statuses_count": 47204,
-   "lang": "en",
-   "contributors_enabled": false,
-   "is_translator": false,
-   "is_translation_enabled": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1001483344222224385/RJ8qvRTK_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001483344222224385/RJ8qvRTK_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/29027457/1547038293",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": true,
-   "default_profile_image": false,
-   "following": false,
-   "follow_request_sent": false,
-   "notifications": false,
-   "translator_type": "none"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "retweeted_status": {
-   "created_at": "Mon Mar 04 11:44:59 +0000 2019",
-   "id": 1102535406804000768,
-   "id_str": "1102535406804000768",
-   "text": "The Democrats are a Threat to World Peace as well as Public Safety.\nThey are the Devils Spawn!!! https://t.co/MteJXE6M8E",
-   "truncated": false,
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
-     {
-      "url": "https://t.co/MteJXE6M8E",
-      "expanded_url": "https://twitter.com/PatriotM1A_/status/1102535095875969025",
-      "display_url": "twitter.com/PatriotM1A_/st\u2026",
-      "indices": [
-       97,
-       120
       ]
      }
     ]
@@ -1127,47 +257,70 @@
    "in_reply_to_user_id_str": null,
    "in_reply_to_screen_name": null,
    "user": {
-    "id": 762284686349574144,
-    "id_str": "762284686349574144",
-    "name": "PatriotM1A",
-    "screen_name": "PatriotM1A_",
-    "location": "New York, NY",
-    "description": "Pissed off Sicilian Donkey,NRA life since 1980. Bible believing believer in Jesus death & resurrection.\nMarried with Children!!!",
-    "url": null,
+    "id": 970572251090186240,
+    "id_str": "970572251090186240",
+    "name": "Coupon Free",
+    "screen_name": "couponfree01",
+    "location": "Dallas, NC",
+    "description": "Visit https://t.co/kdg1XJp1Lf  for 100% free coupon codes from #Udemy. Updated hourly so we always have the freshest coupons. #UdemyCoupon #UdemyDiscount",
+    "url": "https://t.co/9He0iZHYcz",
     "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/9He0iZHYcz",
+        "expanded_url": "http://www.couponfree.online",
+        "display_url": "couponfree.online",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
      "description": {
-      "urls": []
+      "urls": [
+       {
+        "url": "https://t.co/kdg1XJp1Lf",
+        "expanded_url": "http://couponfree.online",
+        "display_url": "couponfree.online",
+        "indices": [
+         6,
+         29
+        ]
+       }
+      ]
      }
     },
     "protected": false,
-    "followers_count": 19874,
-    "friends_count": 18348,
-    "listed_count": 46,
-    "created_at": "Sun Aug 07 13:50:06 +0000 2016",
-    "favourites_count": 105936,
+    "followers_count": 1694,
+    "friends_count": 4750,
+    "listed_count": 19,
+    "created_at": "Mon Mar 05 08:10:31 +0000 2018",
+    "favourites_count": 94,
     "utc_offset": null,
     "time_zone": null,
-    "geo_enabled": true,
+    "geo_enabled": false,
     "verified": false,
-    "statuses_count": 152744,
+    "statuses_count": 8699,
     "lang": "en",
     "contributors_enabled": false,
     "is_translator": false,
     "is_translation_enabled": false,
-    "profile_background_color": "F5F8FA",
-    "profile_background_image_url": null,
-    "profile_background_image_url_https": null,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/822037707530661889/WRYtHrkn_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/822037707530661889/WRYtHrkn_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/762284686349574144/1483392469",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": false,
-    "default_profile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/970573416821547009/oDkr4BWt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/970573416821547009/oDkr4BWt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/970572251090186240/1520237894",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
     "default_profile_image": false,
     "following": false,
     "follow_request_sent": false,
@@ -1178,123 +331,16 @@
    "coordinates": null,
    "place": null,
    "contributors": null,
-   "is_quote_status": true,
-   "quoted_status_id": 1102535095875969025,
-   "quoted_status_id_str": "1102535095875969025",
-   "quoted_status": {
-    "created_at": "Mon Mar 04 11:43:45 +0000 2019",
-    "id": 1102535095875969025,
-    "id_str": "1102535095875969025",
-    "text": "Trump tweets Cohen grilling may have led to failure with N. Korea https://t.co/HC9q6xszHx via @nypost",
-    "truncated": false,
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "user_mentions": [
-      {
-       "screen_name": "nypost",
-       "name": "New York Post",
-       "id": 17469289,
-       "id_str": "17469289",
-       "indices": [
-        94,
-        101
-       ]
-      }
-     ],
-     "urls": [
-      {
-       "url": "https://t.co/HC9q6xszHx",
-       "expanded_url": "https://nypost.com/2019/03/03/trump-tweets-cohen-grilling-may-have-lead-to-failure-with-n-korea/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
-       "display_url": "nypost.com/2019/03/03/tru\u2026",
-       "indices": [
-        66,
-        89
-       ]
-      }
-     ]
-    },
-    "metadata": {
-     "iso_language_code": "en",
-     "result_type": "recent"
-    },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-     "id": 762284686349574144,
-     "id_str": "762284686349574144",
-     "name": "PatriotM1A",
-     "screen_name": "PatriotM1A_",
-     "location": "New York, NY",
-     "description": "Pissed off Sicilian Donkey,NRA life since 1980. Bible believing believer in Jesus death & resurrection.\nMarried with Children!!!",
-     "url": null,
-     "entities": {
-      "description": {
-       "urls": []
-      }
-     },
-     "protected": false,
-     "followers_count": 19874,
-     "friends_count": 18348,
-     "listed_count": 46,
-     "created_at": "Sun Aug 07 13:50:06 +0000 2016",
-     "favourites_count": 105936,
-     "utc_offset": null,
-     "time_zone": null,
-     "geo_enabled": true,
-     "verified": false,
-     "statuses_count": 152744,
-     "lang": "en",
-     "contributors_enabled": false,
-     "is_translator": false,
-     "is_translation_enabled": false,
-     "profile_background_color": "F5F8FA",
-     "profile_background_image_url": null,
-     "profile_background_image_url_https": null,
-     "profile_background_tile": false,
-     "profile_image_url": "http://pbs.twimg.com/profile_images/822037707530661889/WRYtHrkn_normal.jpg",
-     "profile_image_url_https": "https://pbs.twimg.com/profile_images/822037707530661889/WRYtHrkn_normal.jpg",
-     "profile_banner_url": "https://pbs.twimg.com/profile_banners/762284686349574144/1483392469",
-     "profile_link_color": "1DA1F2",
-     "profile_sidebar_border_color": "C0DEED",
-     "profile_sidebar_fill_color": "DDEEF6",
-     "profile_text_color": "333333",
-     "profile_use_background_image": true,
-     "has_extended_profile": false,
-     "default_profile": true,
-     "default_profile_image": false,
-     "following": false,
-     "follow_request_sent": false,
-     "notifications": false,
-     "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": true,
-    "lang": "en"
-   },
-   "retweet_count": 3,
+   "is_quote_status": false,
+   "retweet_count": 11,
    "favorite_count": 4,
    "favorited": false,
    "retweeted": false,
-   "possibly_sensitive": true,
+   "possibly_sensitive": false,
    "lang": "en"
   },
-  "is_quote_status": true,
-  "quoted_status_id": 1102535095875969025,
-  "quoted_status_id_str": "1102535095875969025",
-  "retweet_count": 3,
+  "is_quote_status": false,
+  "retweet_count": 11,
   "favorite_count": 0,
   "favorited": false,
   "retweeted": false,
@@ -1302,23 +348,964 @@
   "lang": "en"
  },
  {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536341781467137,
-  "id_str": "1102536341781467137",
-  "text": "RT @charliekirk11: 0 minutes\n\nThat is how much time ABC News, NBC, &amp; CBS spent covering the infanticide vote last week\n\nAll 6 US senators r\u2026",
+  "created_at": "Tue Mar 05 13:29:06 +0000 2019",
+  "id": 1102923995349991425,
+  "id_str": "1102923995349991425",
+  "text": "RT @gp_pulipaka: Probability Theory for Machine/Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #P\u2026",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BigData",
+     "indices": [
+      63,
+      71
+     ]
+    },
+    {
+     "text": "Analytics",
+     "indices": [
+      72,
+      82
+     ]
+    },
+    {
+     "text": "DataScience",
+     "indices": [
+      83,
+      95
+     ]
+    },
+    {
+     "text": "AI",
+     "indices": [
+      96,
+      99
+     ]
+    },
+    {
+     "text": "MachineLearning",
+     "indices": [
+      100,
+      116
+     ]
+    },
+    {
+     "text": "IoT",
+     "indices": [
+      117,
+      121
+     ]
+    },
+    {
+     "text": "IIoT",
+     "indices": [
+      122,
+      127
+     ]
+    },
+    {
+     "text": "PyTorch",
+     "indices": [
+      128,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gp_pulipaka",
+     "name": "Dr. GP Pulipaka",
+     "id": 4263007693,
+     "id_str": "4263007693",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"https://m1.t7w.co\" rel=\"nofollow\">T7 App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 962242714401230850,
+   "id_str": "962242714401230850",
+   "name": "Hristov Development",
+   "screen_name": "HristovDevelop",
+   "location": "Mexico",
+   "description": "We are an experienced consulting company focused on providing the smoothest client experience. Our goal is to bring your dreams to the Web.",
+   "url": "https://t.co/VXsShRCKer",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/VXsShRCKer",
+       "expanded_url": "https://hristovdevelopment.com/?utm_source=twitter&utm_medium=profile&utm_campaign=social_profile",
+       "display_url": "hristovdevelopment.com/?utm_source=tw\u2026",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 186,
+   "friends_count": 63,
+   "listed_count": 8,
+   "created_at": "Sat Feb 10 08:31:55 +0000 2018",
+   "favourites_count": 436,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 4531,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/962243718072815617/9HATydv1_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/962243718072815617/9HATydv1_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/962242714401230850/1548706967",
+   "profile_link_color": "EB2023",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "has_extended_profile": true,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Mon Mar 04 04:12:18 +0000 2019",
+   "id": 1102421485648531456,
+   "id_str": "1102421485648531456",
+   "text": "Probability Theory for Machine/Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT\u2026 https://t.co/rlOOtQrG8y",
+   "truncated": true,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "BigData",
+      "indices": [
+       46,
+       54
+      ]
+     },
+     {
+      "text": "Analytics",
+      "indices": [
+       55,
+       65
+      ]
+     },
+     {
+      "text": "DataScience",
+      "indices": [
+       66,
+       78
+      ]
+     },
+     {
+      "text": "AI",
+      "indices": [
+       79,
+       82
+      ]
+     },
+     {
+      "text": "MachineLearning",
+      "indices": [
+       83,
+       99
+      ]
+     },
+     {
+      "text": "IoT",
+      "indices": [
+       100,
+       104
+      ]
+     },
+     {
+      "text": "IIoT",
+      "indices": [
+       105,
+       110
+      ]
+     }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/rlOOtQrG8y",
+      "expanded_url": "https://twitter.com/i/web/status/1102421485648531456",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       112,
+       135
+      ]
+     }
+    ]
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 4263007693,
+    "id_str": "4263007693",
+    "name": "Dr. GP Pulipaka",
+    "screen_name": "gp_pulipaka",
+    "location": "Los Angeles, CA",
+    "description": "Ganapathi Pulipaka | Chief Data Scientist at Confidential | PostDoc CS, PhD | Top Data Science Influencer | #SAP | Bestselling Author",
+    "url": "https://t.co/CHWoaV475R",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/CHWoaV475R",
+        "expanded_url": "https://www.linkedin.com/in/dr-ganapathi-pulipaka-56417a2",
+        "display_url": "linkedin.com/in/dr-ganapath\u2026",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 54787,
+    "friends_count": 27940,
+    "listed_count": 3154,
+    "created_at": "Tue Nov 17 02:19:09 +0000 2015",
+    "favourites_count": 112,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 43455,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/998301258413850625/9BZwTjgv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/998301258413850625/9BZwTjgv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4263007693/1534167328",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 23,
+   "favorite_count": 15,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 23,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Mar 05 13:29:03 +0000 2019",
+  "id": 1102923984507727872,
+  "id_str": "1102923984507727872",
+  "text": "Made some tweaks in my Raspberry Pi3 + BME280 #IoT project to have telemetry directly sent to @SlackHQ using\u2026 https://t.co/H8aezH70Qu",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "IoT",
+     "indices": [
+      46,
+      50
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SlackHQ",
+     "name": "Slack",
+     "id": 1305940272,
+     "id_str": "1305940272",
+     "indices": [
+      94,
+      102
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/H8aezH70Qu",
+     "expanded_url": "https://twitter.com/i/web/status/1102923984507727872",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      110,
+      133
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 21191316,
+   "id_str": "21191316",
+   "name": "Benj",
+   "screen_name": "bencarpena",
+   "location": "Houston, TX",
+   "description": "Delivering a promise\n\nIT Enterprise Architect\n\nFull Stack Software Engineer, Integration freak, IoT fan, Computer Engineer,\n\nHusband, Dad of 2, Loves outdoors",
+   "url": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 92,
+   "friends_count": 165,
+   "listed_count": 9,
+   "created_at": "Wed Feb 18 12:33:49 +0000 2009",
+   "favourites_count": 757,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": false,
+   "statuses_count": 4098,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "FCF9F8",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1025235784713076736/3W_1sbUy_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025235784713076736/3W_1sbUy_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/21191316/1473490435",
+   "profile_link_color": "1D781C",
+   "profile_sidebar_border_color": "185002",
+   "profile_sidebar_fill_color": "709353",
+   "profile_text_color": "333333",
+   "profile_use_background_image": false,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "5280739904d0ef48",
+   "url": "https://api.twitter.com/1.1/geo/id/5280739904d0ef48.json",
+   "place_type": "city",
+   "name": "The Woodlands",
+   "full_name": "The Woodlands, TX",
+   "country_code": "US",
+   "country": "United States",
+   "contained_within": [],
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -95.661376,
+       30.10764
+      ],
+      [
+       -95.418329,
+       30.10764
+      ],
+      [
+       -95.418329,
+       30.254863
+      ],
+      [
+       -95.661376,
+       30.254863
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Mar 05 13:29:01 +0000 2019",
+  "id": 1102923973724119041,
+  "id_str": "1102923973724119041",
+  "text": "\"Make tea, not war.\" - Monty Python #QuoteOfTheDay #GreenTea #Matcha #MatchaTea https://t.co/MujgjLRNdT",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "QuoteOfTheDay",
+     "indices": [
+      36,
+      50
+     ]
+    },
+    {
+     "text": "GreenTea",
+     "indices": [
+      51,
+      60
+     ]
+    },
+    {
+     "text": "Matcha",
+     "indices": [
+      61,
+      68
+     ]
+    },
+    {
+     "text": "MatchaTea",
+     "indices": [
+      69,
+      79
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1102923971341758464,
+     "id_str": "1102923971341758464",
+     "indices": [
+      80,
+      103
+     ],
+     "media_url": "http://pbs.twimg.com/media/D05fgiYWsAAX3Gb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/D05fgiYWsAAX3Gb.jpg",
+     "url": "https://t.co/MujgjLRNdT",
+     "display_url": "pic.twitter.com/MujgjLRNdT",
+     "expanded_url": "https://twitter.com/mightymatcha/status/1102923973724119041/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 408,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1181,
+       "h": 709,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1181,
+       "h": 709,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1102923971341758464,
+     "id_str": "1102923971341758464",
+     "indices": [
+      80,
+      103
+     ],
+     "media_url": "http://pbs.twimg.com/media/D05fgiYWsAAX3Gb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/D05fgiYWsAAX3Gb.jpg",
+     "url": "https://t.co/MujgjLRNdT",
+     "display_url": "pic.twitter.com/MujgjLRNdT",
+     "expanded_url": "https://twitter.com/mightymatcha/status/1102923973724119041/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 408,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1181,
+       "h": 709,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1181,
+       "h": 709,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"https://eclincher.com\" rel=\"nofollow\">eClincher</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 285146414,
+   "id_str": "285146414",
+   "name": "Mighty Matcha",
+   "screen_name": "mightymatcha",
+   "location": "Southend-on-Sea",
+   "description": "Inspiring the world to drink super healthy #Matcha #GreenTea one cup at a time!",
+   "url": "https://t.co/BcnLWTg4mC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/BcnLWTg4mC",
+       "expanded_url": "http://www.mightymatcha.com",
+       "display_url": "mightymatcha.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 3612,
+   "friends_count": 1392,
+   "listed_count": 117,
+   "created_at": "Wed Apr 20 16:22:25 +0000 2011",
+   "favourites_count": 1725,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 22601,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "352726",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/697760925114351617/wBIzBLUp_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/697760925114351617/wBIzBLUp_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/285146414/1455194143",
+   "profile_link_color": "D02B55",
+   "profile_sidebar_border_color": "829D5E",
+   "profile_sidebar_fill_color": "A1E617",
+   "profile_text_color": "3E4415",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Mar 05 13:28:59 +0000 2019",
+  "id": 1102923968049238027,
+  "id_str": "1102923968049238027",
+  "text": "That classic Monty Python Film Twitter sketch https://t.co/DS8aTGXARJ",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1102923963842334720,
+     "id_str": "1102923963842334720",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/D05fgGcWkAAAf_S.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/D05fgGcWkAAAf_S.jpg",
+     "url": "https://t.co/DS8aTGXARJ",
+     "display_url": "pic.twitter.com/DS8aTGXARJ",
+     "expanded_url": "https://twitter.com/btpeters/status/1102923968049238027/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 474,
+       "h": 342,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 474,
+       "h": 342,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 474,
+       "h": 342,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1102923963842334720,
+     "id_str": "1102923963842334720",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/D05fgGcWkAAAf_S.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/D05fgGcWkAAAf_S.jpg",
+     "url": "https://t.co/DS8aTGXARJ",
+     "display_url": "pic.twitter.com/DS8aTGXARJ",
+     "expanded_url": "https://twitter.com/btpeters/status/1102923968049238027/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 474,
+       "h": 342,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 474,
+       "h": 342,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 474,
+       "h": 342,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 17860196,
+   "id_str": "17860196",
+   "name": "Brandon Peters",
+   "screen_name": "btpeters",
+   "location": "Indianapolis",
+   "description": "Host of the Cult Cinema Cavalcade podcast & Film Writer/Reviewer for Why So Blu. Also check out my Naptown Nerd blog for other film rantings",
+   "url": "https://t.co/rmM4cRjpiw",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/rmM4cRjpiw",
+       "expanded_url": "http://cultcinemacavalcade.com",
+       "display_url": "cultcinemacavalcade.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 376,
+   "friends_count": 676,
+   "listed_count": 10,
+   "created_at": "Thu Dec 04 04:41:40 +0000 2008",
+   "favourites_count": 3337,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": false,
+   "statuses_count": 5977,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "1A1B1F",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_tile": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1080525437032427521/PNqiZRJb_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080525437032427521/PNqiZRJb_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/17860196/1526909260",
+   "profile_link_color": "981CEB",
+   "profile_sidebar_border_color": "181A1E",
+   "profile_sidebar_fill_color": "252429",
+   "profile_text_color": "666666",
+   "profile_use_background_image": true,
+   "has_extended_profile": true,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Mar 05 13:28:57 +0000 2019",
+  "id": 1102923959731998720,
+  "id_str": "1102923959731998720",
+  "text": "If you are reading Bayesian Analysis with Python second edition and you find a mistake, please consider reporting i\u2026 https://t.co/Q1kqUAZ70h",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Q1kqUAZ70h",
+     "expanded_url": "https://twitter.com/i/web/status/1102923959731998720",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 3207637540,
+   "id_str": "3207637540",
+   "name": "Osvaldo Martin",
+   "screen_name": "aloctavodia",
+   "location": "San Luis, Argentina",
+   "description": "Probabilistic modeller. #PyMC3 and #ArviZ developer.",
+   "url": "https://t.co/9eSXMpuUAA",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/9eSXMpuUAA",
+       "expanded_url": "https://github.com/aloctavodia",
+       "display_url": "github.com/aloctavodia",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 677,
+   "friends_count": 251,
+   "listed_count": 71,
+   "created_at": "Sat Apr 25 23:56:44 +0000 2015",
+   "favourites_count": 23969,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "verified": false,
+   "statuses_count": 4954,
+   "lang": "es",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "EBEBEB",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/795881224120233984/UCuap3Ch_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/795881224120233984/UCuap3Ch_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3207637540/1436748013",
+   "profile_link_color": "4A913C",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Mar 05 13:28:51 +0000 2019",
+  "id": 1102923931160330241,
+  "id_str": "1102923931160330241",
+  "text": "RT @timfox: I'm quite disturbed that Python uses camel case (for classes), and OCaml uses snake case.",
   "truncated": false,
   "entities": {
    "hashtags": [],
    "symbols": [],
    "user_mentions": [
     {
-     "screen_name": "charliekirk11",
-     "name": "Charlie Kirk",
-     "id": 292929271,
-     "id_str": "292929271",
+     "screen_name": "timfox",
+     "name": "Tim Fox",
+     "id": 15982247,
+     "id_str": "15982247",
      "indices": [
       3,
-      17
+      10
      ]
     }
    ],
@@ -1335,46 +1322,60 @@
   "in_reply_to_user_id_str": null,
   "in_reply_to_screen_name": null,
   "user": {
-   "id": 417521461,
-   "id_str": "417521461",
-   "name": "Bryan Junker",
-   "screen_name": "BryanJunker",
-   "location": "",
-   "description": "",
-   "url": null,
+   "id": 66873,
+   "id_str": "66873",
+   "name": "Tom",
+   "screen_name": "tggleeson",
+   "location": "Kildare, Ireland",
+   "description": "Master Datasmith",
+   "url": "http://t.co/ERNxm9KkK4",
    "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/ERNxm9KkK4",
+       "expanded_url": "http://www.tomgleeson.ie",
+       "display_url": "tomgleeson.ie",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
     "description": {
      "urls": []
     }
    },
    "protected": false,
-   "followers_count": 132,
-   "friends_count": 408,
-   "listed_count": 0,
-   "created_at": "Mon Nov 21 01:50:35 +0000 2011",
-   "favourites_count": 5723,
+   "followers_count": 2082,
+   "friends_count": 1569,
+   "listed_count": 324,
+   "created_at": "Thu Dec 14 12:42:58 +0000 2006",
+   "favourites_count": 1319,
    "utc_offset": null,
    "time_zone": null,
-   "geo_enabled": false,
+   "geo_enabled": true,
    "verified": false,
-   "statuses_count": 496,
+   "statuses_count": 156609,
    "lang": "en",
    "contributors_enabled": false,
    "is_translator": false,
    "is_translation_enabled": false,
-   "profile_background_color": "C0DEED",
+   "profile_background_color": "071718",
    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000099792482/a0644d73fbe4c911f4f55e4bb1af0aa7_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000099792482/a0644d73fbe4c911f4f55e4bb1af0aa7_normal.jpeg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
+   "profile_background_tile": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/55726006/ballinafagh_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/55726006/ballinafagh_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/66873/1398244121",
+   "profile_link_color": "0000FF",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "DADAFC",
+   "profile_text_color": "000000",
    "profile_use_background_image": true,
    "has_extended_profile": false,
-   "default_profile": true,
+   "default_profile": false,
    "default_profile_image": false,
    "following": false,
    "follow_request_sent": false,
@@ -1386,92 +1387,68 @@
   "place": null,
   "contributors": null,
   "retweeted_status": {
-   "created_at": "Mon Mar 04 01:18:23 +0000 2019",
-   "id": 1102377716744040449,
-   "id_str": "1102377716744040449",
-   "text": "0 minutes\n\nThat is how much time ABC News, NBC, &amp; CBS spent covering the infanticide vote last week\n\nAll 6 US senat\u2026 https://t.co/fE7PYCoMRQ",
-   "truncated": true,
+   "created_at": "Mon Mar 04 14:38:15 +0000 2019",
+   "id": 1102579008825450496,
+   "id_str": "1102579008825450496",
+   "text": "I'm quite disturbed that Python uses camel case (for classes), and OCaml uses snake case.",
+   "truncated": false,
    "entities": {
     "hashtags": [],
     "symbols": [],
     "user_mentions": [],
-    "urls": [
-     {
-      "url": "https://t.co/fE7PYCoMRQ",
-      "expanded_url": "https://twitter.com/i/web/status/1102377716744040449",
-      "display_url": "twitter.com/i/web/status/1\u2026",
-      "indices": [
-       121,
-       144
-      ]
-     }
-    ]
+    "urls": []
    },
    "metadata": {
     "iso_language_code": "en",
     "result_type": "recent"
    },
-   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_user_id": null,
    "in_reply_to_user_id_str": null,
    "in_reply_to_screen_name": null,
    "user": {
-    "id": 292929271,
-    "id_str": "292929271",
-    "name": "Charlie Kirk",
-    "screen_name": "charliekirk11",
-    "location": "Chicago, Illinois",
-    "description": "Founder & President of @TPUSA Proud capitalist. Best Selling Author. We are all sinners, saved by Jesus. Opinions here are my own.",
-    "url": "https://t.co/QpwLQEFETY",
+    "id": 15982247,
+    "id_str": "15982247",
+    "name": "Tim Fox",
+    "screen_name": "timfox",
+    "location": "Not far from Camelot",
+    "description": "Open source veteran. Vert.x creator, HornetQ / ActiveMQ Artemis creator. Ex Facebook / JBoss / Red Hat / SpringSource / RabbitMQ.",
+    "url": null,
     "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/QpwLQEFETY",
-        "expanded_url": "http://www.TPUSA.com/GetInvolved",
-        "display_url": "TPUSA.com/GetInvolved",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
      "description": {
       "urls": []
      }
     },
     "protected": false,
-    "followers_count": 958116,
-    "friends_count": 251684,
-    "listed_count": 4300,
-    "created_at": "Wed May 04 13:37:25 +0000 2011",
-    "favourites_count": 24813,
+    "followers_count": 4292,
+    "friends_count": 449,
+    "listed_count": 181,
+    "created_at": "Mon Aug 25 15:00:14 +0000 2008",
+    "favourites_count": 1426,
     "utc_offset": null,
     "time_zone": null,
-    "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 42584,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13029,
     "lang": "en",
     "contributors_enabled": false,
     "is_translator": false,
     "is_translation_enabled": false,
-    "profile_background_color": "C0DEED",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-    "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/292929271/1546620818",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "has_extended_profile": true,
-    "default_profile": true,
+    "profile_background_color": "020812",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026104661013655553/55x_EW0E_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026104661013655553/55x_EW0E_normal.jpg",
+    "profile_link_color": "2280A9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "020812",
+    "profile_text_color": "17406C",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
     "default_profile_image": false,
     "following": false,
     "follow_request_sent": false,
@@ -1483,55 +1460,52 @@
    "place": null,
    "contributors": null,
    "is_quote_status": false,
-   "retweet_count": 17208,
-   "favorite_count": 23987,
+   "retweet_count": 384,
+   "favorite_count": 1256,
    "favorited": false,
    "retweeted": false,
    "lang": "en"
   },
   "is_quote_status": false,
-  "retweet_count": 17208,
+  "retweet_count": 384,
   "favorite_count": 0,
   "favorited": false,
   "retweeted": false,
   "lang": "en"
  },
  {
-  "created_at": "Mon Mar 04 11:48:42 +0000 2019",
-  "id": 1102536341311578114,
-  "id_str": "1102536341311578114",
-  "text": "RT @LiveNation: .@BTS_twt WORLD TOUR \u2018LOVE YOURSELF: SPEAK YOURSELF\u2019\n- Tickets SOLD OUT\n- Stay tuned : Sat 02 Mar @ 7AM PT/10AM ET\n #BTS #S\u2026",
+  "created_at": "Tue Mar 05 13:28:27 +0000 2019",
+  "id": 1102923832971706369,
+  "id_str": "1102923832971706369",
+  "text": "RT @JonTrevithick: Just got some French 35mm publicity transparencies for 'Monty Python and the Holy Grail'.\n#SacreGraal \n#FetchezLaVache h\u2026",
   "truncated": false,
   "entities": {
    "hashtags": [
     {
-     "text": "BTS",
+     "text": "SacreGraal",
      "indices": [
-      132,
-      136
+      109,
+      120
+     ]
+    },
+    {
+     "text": "FetchezLaVache",
+     "indices": [
+      122,
+      137
      ]
     }
    ],
    "symbols": [],
    "user_mentions": [
     {
-     "screen_name": "LiveNation",
-     "name": "Live Nation",
-     "id": 9629222,
-     "id_str": "9629222",
+     "screen_name": "JonTrevithick",
+     "name": "Jonathan Trevithick",
+     "id": 2211572534,
+     "id_str": "2211572534",
      "indices": [
       3,
-      14
-     ]
-    },
-    {
-     "screen_name": "BTS_twt",
-     "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
-     "id": 335141638,
-     "id_str": "335141638",
-     "indices": [
-      17,
-      25
+      17
      ]
     }
    ],
@@ -1548,47 +1522,70 @@
   "in_reply_to_user_id_str": null,
   "in_reply_to_screen_name": null,
   "user": {
-   "id": 1094523268843720704,
-   "id_str": "1094523268843720704",
-   "name": "Allyssa Jewel",
-   "screen_name": "allyssa_jewel",
-   "location": "",
-   "description": "\ud83d\udc9cArmy\ud83d\udc9c\n\ubc15 \uc9c0 \ubbfc\nJikooook\nBTS is my LIFE AND SOUL",
-   "url": null,
+   "id": 18810664,
+   "id_str": "18810664",
+   "name": "Dr. Rev. J. \"It's Cold, I'm Colder\" Kirchartz",
+   "screen_name": "JKirchartz",
+   "location": "Pittsburgh, PA",
+   "description": "Post-Post-Modern Renaissance man. #botALLY #SubGenius #Pope *Burgh Verified* maker of @yinzbot, @WebYinzer, https://t.co/qhd7qT8Dj9",
+   "url": "https://t.co/OfthtMajrq",
    "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/OfthtMajrq",
+       "expanded_url": "http://jkirchartz.com",
+       "display_url": "jkirchartz.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
     "description": {
-     "urls": []
+     "urls": [
+      {
+       "url": "https://t.co/qhd7qT8Dj9",
+       "expanded_url": "http://bit.ly/Glitchy3bitDither",
+       "display_url": "bit.ly/Glitchy3bitDit\u2026",
+       "indices": [
+        108,
+        131
+       ]
+      }
+     ]
     }
    },
    "protected": false,
-   "followers_count": 3,
-   "friends_count": 46,
-   "listed_count": 0,
-   "created_at": "Sun Feb 10 09:07:37 +0000 2019",
-   "favourites_count": 357,
+   "followers_count": 1461,
+   "friends_count": 4442,
+   "listed_count": 149,
+   "created_at": "Fri Jan 09 18:53:22 +0000 2009",
+   "favourites_count": 5841,
    "utc_offset": null,
    "time_zone": null,
    "geo_enabled": false,
    "verified": false,
-   "statuses_count": 21,
+   "statuses_count": 47440,
    "lang": "en",
    "contributors_enabled": false,
    "is_translator": false,
    "is_translation_enabled": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1095275466515042305/komqVn2c_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095275466515042305/komqVn2c_normal.jpg",
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094523268843720704/1549968996",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
+   "profile_background_color": "1A1B1F",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_tile": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/937174889047449600/GNOVzyzE_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/937174889047449600/GNOVzyzE_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18810664/1412127188",
+   "profile_link_color": "000057",
+   "profile_sidebar_border_color": "7C6BFF",
+   "profile_sidebar_fill_color": "2FC2EF",
+   "profile_text_color": "000000",
    "profile_use_background_image": true,
-   "has_extended_profile": true,
-   "default_profile": true,
+   "has_extended_profile": false,
+   "default_profile": false,
    "default_profile_image": false,
    "following": false,
    "follow_request_sent": false,
@@ -1600,34 +1597,31 @@
   "place": null,
   "contributors": null,
   "retweeted_status": {
-   "created_at": "Fri Mar 01 20:30:06 +0000 2019",
-   "id": 1101580391671054337,
-   "id_str": "1101580391671054337",
-   "text": ".@BTS_twt WORLD TOUR \u2018LOVE YOURSELF: SPEAK YOURSELF\u2019\n- Tickets SOLD OUT\n- Stay tuned : Sat 02 Mar @ 7AM PT/10AM ET\u2026 https://t.co/1S1OT15ZSd",
+   "created_at": "Tue Mar 05 08:42:29 +0000 2019",
+   "id": 1102851866411425792,
+   "id_str": "1102851866411425792",
+   "text": "Just got some French 35mm publicity transparencies for 'Monty Python and the Holy Grail'.\n#SacreGraal\u2026 https://t.co/Z8bs7l8gOS",
    "truncated": true,
    "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "user_mentions": [
+    "hashtags": [
      {
-      "screen_name": "BTS_twt",
-      "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
-      "id": 335141638,
-      "id_str": "335141638",
+      "text": "SacreGraal",
       "indices": [
-       1,
-       9
+       90,
+       101
       ]
      }
     ],
+    "symbols": [],
+    "user_mentions": [],
     "urls": [
      {
-      "url": "https://t.co/1S1OT15ZSd",
-      "expanded_url": "https://twitter.com/i/web/status/1101580391671054337",
+      "url": "https://t.co/Z8bs7l8gOS",
+      "expanded_url": "https://twitter.com/i/web/status/1102851866411425792",
       "display_url": "twitter.com/i/web/status/1\u2026",
       "indices": [
-       116,
-       139
+       103,
+       126
       ]
      }
     ]
@@ -1636,87 +1630,246 @@
     "iso_language_code": "en",
     "result_type": "recent"
    },
-   "source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_user_id": null,
    "in_reply_to_user_id_str": null,
    "in_reply_to_screen_name": null,
    "user": {
-    "id": 9629222,
-    "id_str": "9629222",
-    "name": "Live Nation",
-    "screen_name": "LiveNation",
-    "location": "Worldwide",
-    "description": "Live Nation is the largest concert producer. Follow for Concert Announcements, On Sales & Presales, Promotions, Artist Exclusives.",
-    "url": "https://t.co/oQbll9uo8a",
+    "id": 2211572534,
+    "id_str": "2211572534",
+    "name": "Jonathan Trevithick",
+    "screen_name": "JonTrevithick",
+    "location": "",
+    "description": "",
+    "url": null,
     "entities": {
-     "url": {
-      "urls": [
-       {
-        "url": "https://t.co/oQbll9uo8a",
-        "expanded_url": "http://livemu.sc/GetConcertTickets",
-        "display_url": "livemu.sc/GetConcertTick\u2026",
-        "indices": [
-         0,
-         23
-        ]
-       }
-      ]
-     },
      "description": {
       "urls": []
      }
     },
     "protected": false,
-    "followers_count": 517805,
-    "friends_count": 25410,
-    "listed_count": 5734,
-    "created_at": "Tue Oct 23 17:37:27 +0000 2007",
-    "favourites_count": 8674,
+    "followers_count": 848,
+    "friends_count": 407,
+    "listed_count": 10,
+    "created_at": "Sun Nov 24 00:32:34 +0000 2013",
+    "favourites_count": 33327,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
-    "verified": true,
-    "statuses_count": 73505,
+    "verified": false,
+    "statuses_count": 7150,
     "lang": "en",
     "contributors_enabled": false,
     "is_translator": false,
     "is_translation_enabled": false,
-    "profile_background_color": "000000",
+    "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/883086632764678144/qaAbnTu9_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883086632764678144/qaAbnTu9_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/9629222/1550602776",
-    "profile_link_color": "C90000",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1001341645927825408/SFctMU_3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001341645927825408/SFctMU_3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2211572534/1524091305",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
     "has_extended_profile": false,
-    "default_profile": false,
+    "default_profile": true,
     "default_profile_image": false,
     "following": false,
     "follow_request_sent": false,
     "notifications": false,
-    "translator_type": "regular"
+    "translator_type": "none"
    },
    "geo": null,
    "coordinates": null,
    "place": null,
    "contributors": null,
    "is_quote_status": false,
-   "retweet_count": 8425,
-   "favorite_count": 22269,
+   "retweet_count": 2,
+   "favorite_count": 11,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
    "lang": "en"
   },
   "is_quote_status": false,
-  "retweet_count": 8425,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Mar 05 13:28:18 +0000 2019",
+  "id": 1102923792244981760,
+  "id_str": "1102923792244981760",
+  "text": "RT @timfox: I'm quite disturbed that Python uses camel case (for classes), and OCaml uses snake case.",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "timfox",
+     "name": "Tim Fox",
+     "id": 15982247,
+     "id_str": "15982247",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 97693175,
+   "id_str": "97693175",
+   "name": "Indy Garcia",
+   "screen_name": "indy9000",
+   "location": "London, Cambridge, UK",
+   "description": "Embodied Situated Simulated Intelligence, Robotics,  ML, NLP, ALife, Adaptive Systems\nBut sadly, tweeting mostly about the cluster fuck of  Brexit these days...",
+   "url": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 248,
+   "friends_count": 707,
+   "listed_count": 41,
+   "created_at": "Fri Dec 18 15:48:53 +0000 2009",
+   "favourites_count": 24534,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": false,
+   "statuses_count": 9852,
+   "lang": "en",
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1139260851/48589_678967282_6614_q_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139260851/48589_678967282_6614_q_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/97693175/1464721383",
+   "profile_link_color": "FF691F",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Mon Mar 04 14:38:15 +0000 2019",
+   "id": 1102579008825450496,
+   "id_str": "1102579008825450496",
+   "text": "I'm quite disturbed that Python uses camel case (for classes), and OCaml uses snake case.",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 15982247,
+    "id_str": "15982247",
+    "name": "Tim Fox",
+    "screen_name": "timfox",
+    "location": "Not far from Camelot",
+    "description": "Open source veteran. Vert.x creator, HornetQ / ActiveMQ Artemis creator. Ex Facebook / JBoss / Red Hat / SpringSource / RabbitMQ.",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 4292,
+    "friends_count": 449,
+    "listed_count": 181,
+    "created_at": "Mon Aug 25 15:00:14 +0000 2008",
+    "favourites_count": 1426,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13029,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "020812",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026104661013655553/55x_EW0E_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026104661013655553/55x_EW0E_normal.jpg",
+    "profile_link_color": "2280A9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "020812",
+    "profile_text_color": "17406C",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 384,
+   "favorite_count": 1256,
+   "favorited": false,
+   "retweeted": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 384,
   "favorite_count": 0,
   "favorited": false,
   "retweeted": false,
