@@ -5,7 +5,7 @@ import selectors
 import types
 
 selector = selectors.DefaultSelector()
-messages = ['This is the first message', 'This is the second message']
+messages = ['This is the first message','This is the second message']
 
 BUFFER_SIZE = 1024
 
@@ -27,7 +27,7 @@ def start_connections(host, port, num_conns):
     events = selector.select()
     for key, mask in events:
         service_connection(key, mask)
-    
+
 def service_connection(key, mask):
     sock = key.fileobj
     data = key.data
@@ -46,9 +46,10 @@ def service_connection(key, mask):
         if data.outb:
             print('Sending {} to connection {}'.format(repr(data.outb), data.connid))
             sent = sock.send(data.outb)
+            sock.shutdown(socket.SHUT_WR)
             data.outb = data.outb[sent:]
 if __name__ == '__main__':
-        host = 'localhost'
-        port = 12345
-        BUFFER_SIZE = 1024
-        start_connections(host, port, 2)
+    host = 'localhost'
+    port = 12345
+    BUFFER_SIZE = 1024
+    start_connections(host, port, 2)

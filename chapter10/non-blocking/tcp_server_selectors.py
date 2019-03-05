@@ -53,5 +53,5 @@ if __name__ == '__main__':
                 accept_connection(key.fileobj)
             else:
                 service_connection(key, mask)
-        socket_tcp.close()
+    socket_tcp.close()
     print('Connection finished.')
