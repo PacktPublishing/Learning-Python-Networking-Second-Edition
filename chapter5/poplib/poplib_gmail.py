@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
 import poplib
+import getpass
 
 mailbox = poplib.POP3_SSL ('pop.gmail.com', 995)
 mailbox.user('user@gmail.com')
-mailbox.pass_('password')
+password = getpass.getpass(prompt='Enter your password:')
+mailbox.pass_(password)
 
 EmailInformation = mailbox.stat()
 print("Number of new emails: %s ", EmailInformation)

@@ -22,7 +22,7 @@ try:
 	smtp.ehlo()
 	
 	# If we can encrypt this session, do it
-	if server.has_extn('STARTTLS'):
+	if smtp.has_extn('STARTTLS'):
 		# secure our email with tls encryption
 		smtp.starttls()
 		# re-identify ourselves as an encrypted connection 

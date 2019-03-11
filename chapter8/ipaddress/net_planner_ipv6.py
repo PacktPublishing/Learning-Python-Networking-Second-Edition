@@ -4,7 +4,7 @@ import ipaddress as ip
 
 IPV6_ADDR = '2001:db8:0:1::'
 
-mask = input("Enter the mask len: ")
+mask = input("Enter the mask lengh: ")
 mask = int(mask)
 net_addr = IPV6_ADDR + '/' + str(mask)
 

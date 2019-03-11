@@ -26,11 +26,14 @@ if __name__ == '__main__':
     parser.add_argument('--hostname', action="store", dest="hostname")
 	parser.add_argument('--port', action="store", dest="port")
 	parser.add_argument('--user', action="store", dest="user")
-	parser.add_argument('--password', action="store", dest="password")
+	
     given_args = parser.parse_args() 
     hostname = given_args.hostname
 	port = given_args.port
 	user = given_args.user
-	password = given_args.password
+	
+	import getpass 
+	password = getpass.getpass(prompt='Enter your password')
+	
     main(hostname,port,user,password)
 
