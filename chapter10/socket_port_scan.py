@@ -2,7 +2,7 @@
 
 import socket
 
-ipaddress =input("Enter ip address for port scanning:")
+ipaddress =input("Enter ip address or domain for port scanning:")
 
 port_init= input("Enter first port: ")
 port_end = input("Enter last port:  ")
