@@ -17,12 +17,15 @@ def ftp_file_download(path, username):
 	files = ftp_client.dir()
 	print(files)
 	# download a file
-	file_handler = open(DOWNLOAD_FILE_NAME, 'wb')
-	ftp_cmd = 'RETR %s' %DOWNLOAD_FILE_NAME
-	ftp_client.retrbinary(ftp_cmd,file_handler.write)
-	ftp_client.retrlines('LIST')
-	file_handler.close()
-	ftp_client.quit()
+	try:
+		file_handler = open(DOWNLOAD_FILE_NAME, 'wb')
+		ftp_cmd = 'RETR %s' %DOWNLOAD_FILE_NAME
+		ftp_client.retrbinary(ftp_cmd,file_handler.write)
+		ftp_client.retrlines('LIST')
+		file_handler.close()
+		ftp_client.quit()
+	except Exception as exception:
+		print('File could not be downloaded:',exception)
 
 if __name__ == '__main__':
 	ftp_file_download(path=FTP_SERVER_URL,username='anonymous')

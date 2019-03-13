@@ -3,6 +3,8 @@
 import requests  
 from bs4 import BeautifulSoup  
 import urllib.parse
+import os
+import sys
 
 response = requests.get('http://www.freeimages.co.uk/galleries/transtech/informationtechnology/index.htm')  
 parse = BeautifulSoup(response.text,'lxml')
@@ -23,7 +25,6 @@ print('Found %s images' % len(images))
 
 #create download_images folder if not exists
 
-import os
 
 file_path = "download_images"
 directory = os.path.dirname(file_path)

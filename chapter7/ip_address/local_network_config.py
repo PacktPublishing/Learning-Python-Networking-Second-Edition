@@ -18,8 +18,10 @@ for iface in ifaces:
 		ipaddr_desc = ipaddrs[netifaces.AF_INET]
 		ipaddr_desc = ipaddr_desc[0]
 		print("Network interface: {0}".format(iface))
-		print("\tIP address: {0}".format(ipaddr_desc['addr']))
-		print("\tNetmask: {0}".format(ipaddr_desc['netmask']))
+		if 'addr' in ipaddr_desc:
+			print("\tIP address: {0}".format(ipaddr_desc['addr']))
+		if 'netmask' in ipaddr_desc:
+			print("\tNetmask: {0}".format(ipaddr_desc['netmask']))
 
 # Find the gateway
 gateways = netifaces.gateways()

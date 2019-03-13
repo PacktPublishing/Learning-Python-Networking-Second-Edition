@@ -14,14 +14,18 @@ class IPtoGeo(object):
         self._get_location()
 
     def _get_location(self):
-	
-        json_request = requests.get('http://api.hostip.info/get_json.php?ip=%s&position=true' % self.ip_address).json()
 
-        self.country = json_request['country_name']
-        self.country_code = json_request['country_code']
-        self.city = json_request['city']
-        self.latitude = json_request['lat']
-        self.longitude = json_request['lng']
+        json_request = requests.get('http://api.hostip.info/get_json.php?ip=%s&position=true' % self.ip_address).json()
+        if 'country_name' in json_request:
+            self.country = json_request['country_name']
+        if 'country_code' in json_request:
+            self.country_code = json_request['country_code']
+        if 'city' in json_request:
+            self.city = json_request['city']
+        if 'lat' in json_request:
+            self.latitude = json_request['lat']
+        if 'lng' in json_request:
+            self.longitude = json_request['lng']
 
 if __name__ == '__main__':
     geolocation = IPtoGeo('8.8.8.8')

@@ -1,21 +1,23 @@
 #!/usr/bin/python3
 
 from twisted.internet import reactor
-from twisted.internet.protocol import Protocol, ClientFactory
+from twisted.internet.protocol import Protocol
+from twisted.internet.protocol import ClientFactory
 
-class SimpleClient(Protocol):
+class MyTwistedClient(Protocol):
 	def connectionMade(self):
 		self.transport.write('Connection established'.encode())
-
-	def dataReceived(self, data):
-		print('Server Said: ', data)
-		self.transport.loseConnection()
-
+		
 	def connectionLost(self, reason):
 		print('Connection Lost %s ' %(reason))
 
-class SimpleClientFactory(ClientFactory):
-	protocol = SimpleClient 
+	def dataReceived(self, data):
+		print('Server data: ', data)
+		self.transport.loseConnection()
+
+
+class MyTwistedClientFactory(ClientFactory):
+	protocol = MyTwistedClient 
 
 	def clientConnectionFailed(self, connector, reason):
 		print('Connection Failed')
@@ -25,5 +27,5 @@ class SimpleClientFactory(ClientFactory):
 		print('Connection Lost')
 		reactor.stop()
 
-reactor.connectTCP('localhost', 8080, SimpleClientFactory())
+reactor.connectTCP('localhost', 8080, MyTwistedClientFactory())
 reactor.run()

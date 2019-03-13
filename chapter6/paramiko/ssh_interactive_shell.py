@@ -67,7 +67,7 @@ class ShellHandler:
             else: 
                 # get rid of 'coloring and formatting' special characters 
                 shout.append(re.compile(r'(\x9B|\x1B\[)[0-?]*[ -/]*[@-~]').sub('', line). 
-                    replace('\b', '').replace('\r', '')) 
+                    replace('\b', '').replace('\r', '').replace('\n', '')) 
 
         # first and last lines of shout/sherr contain a prompt 
         if shout and echo_cmd in shout[-1]: 
