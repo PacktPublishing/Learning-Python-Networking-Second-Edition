@@ -1,0 +1,19 @@
+<html>
+<body>
+ 
+ <form method="post" action="/new_book">
+      <dl>
+        {{ form.title.label }} {{ form.title(style="width:100%") }}
+	{% for error in form.title.errors %} {{ error }} {% endfor %}
+		<br />
+		{{ form.author.label }} {{ form.author(style="width:100%") }}
+	{% for error in form.author.errors %} {{ error }} {% endfor %}
+		<br />
+	{{ form.description.label }} {{form.description(style="height:100px;width:100%") }}
+	{% for error in form.description.errors %} {{ error }} {% endfor %}
+      </dl>
+      <p><input type="submit" value="submit">
+    </form>
+
+</body>
+</html>
