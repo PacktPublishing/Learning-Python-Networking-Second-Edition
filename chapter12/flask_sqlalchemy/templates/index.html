@@ -3,6 +3,7 @@
  
  <form method="post" action="/new_book">
       <dl>
+	    {{ form.csrf_token }}
         {{ form.title.label }} {{ form.title(style="width:100%") }}
 	{% for error in form.title.errors %} {{ error }} {% endfor %}
 		<br />
