@@ -22,7 +22,7 @@ def main(hostname,port,user,password):
                 mailbox.quit()
 
 if __name__ == '__main__':
-        parser = argparse.ArgumentParser(description='MaixBox basic params')
+        parser = argparse.ArgumentParser(description='MailBox basic params')
         parser.add_argument('--hostname', action="store", dest="hostname")
         parser.add_argument('--port', action="store", dest="port")
         parser.add_argument('--user', action="store", dest="user")

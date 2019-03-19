@@ -18,9 +18,9 @@ def check_email(username,password):
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Email Download IMAP')
 	parser.add_argument('--username', action="store", dest="username")
-	parser.add_argument('--password', action="store", dest="password")
 	given_args = parser.parse_args()
 	username = given_args.username
-	password = given_args.password
+	import getpass
+	password = getpass.getpass(prompt='Enter your password:')
 	check_email(username, password)
 

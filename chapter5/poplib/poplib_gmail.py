@@ -4,8 +4,11 @@ import poplib
 import getpass
 
 mailbox = poplib.POP3_SSL ('pop.gmail.com', 995)
-mailbox.user('user@gmail.com')
+
+username = input('Enter your username:')
 password = getpass.getpass(prompt='Enter your password:')
+
+mailbox.user(username)
 mailbox.pass_(password)
 
 EmailInformation = mailbox.stat()
@@ -15,27 +18,19 @@ numberOfMails = EmailInformation[0]
 num_messages = len(mailbox.list()[1])
 
 for i in range (num_messages):
-   print("Message number "+str(i+1))
+   print("\nMessage number "+str(i+1))
    print("--------------------")
    # read message
    response, headerLines, bytes = mailbox.retr(i+1)
-   message = '\n'.join (headerLines)
-   #Parsing the message
-   parser = Parser()
-   email = p.parsestr(message)
-   print("From: "+email["From"])
-   print("To: "+email["To"])
-   print("Subject: "+email["Subject"])
-   print("ID: "+email['message-id'])
-   content_type = email.get_content_type()
-   if ("text/plain" == str(content_type)):
-      print(email.get_payload(decode=True))
-   # If it is an image, the name of the file is extracted
-   elif ("image/gif" == str(content_type)):
-      file_name = email.get_filename()
-      fp = open(file_name, 'wb')
-      fp.write(part.get_payload(decode = True))
-      fp.close()
+   #for header in headerLines:
+   #   print(str(header))
+   print('Message ID', headerLines[1])
+   print('Date', headerLines[2])
+   print('Reply To', headerLines[4])
+   print('To', headerLines[5])
+   print('Subject', headerLines[6])
+   print('MIME', headerLines[7])
+   print('Content Type', headerLines[8])
 
 mailbox.quit()
 

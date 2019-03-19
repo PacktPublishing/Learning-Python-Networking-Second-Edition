@@ -13,7 +13,7 @@ message['To'] = "user@domain"
 message['Subject'] = "Subject"
  
 # add in the message body
-msg.attach(MIMEText("message", 'plain'))
+message.attach(MIMEText("message", 'plain'))
  
 #create server
 server = smtplib.SMTP('smtp.gmail.com: 587')
@@ -24,5 +24,5 @@ server.login(message['From'], "password")
  
  # send the message via the server.
 server.sendmail(message['From'], message['To'], message.as_string())
-print "successfully sent email to %s:" % (message['To'])
+print("successfully sent email to %s:" % (message['To']))
 server.quit()
