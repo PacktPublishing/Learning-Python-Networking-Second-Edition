@@ -16,9 +16,9 @@ try:
 	for header in headers:
 		print(header.decode())
 except socket.error:
-    print ("Socket error", socket.errno)
+	print ("Socket error", socket.errno)
 finally:
-    print("closing connection")
-    sock.close()
+	print("closing connection")
+	sock.close()
 
 
