@@ -9,14 +9,14 @@ def add_headers_user_agent():
 
 	headers = {'Accept-Language': 'nl','User-agent': USER_AGENT}
 	request = Request(URL,headers=headers)
-	
+
 	#request.add_header('Accept-Language', 'nl')
 	#request.add_header('User-agent', USER_AGENT)
-		
+
 	print ("Request headers:")
 	for key,value in request.header_items():
 		print ("%s: %s" %(key, value))
-	
+
 if __name__ == '__main__':
-    add_headers_user_agent()
+	add_headers_user_agent()
 

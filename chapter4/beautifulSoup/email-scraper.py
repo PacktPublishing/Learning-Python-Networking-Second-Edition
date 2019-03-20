@@ -6,7 +6,7 @@ from collections import deque
 import re
 
 # a queue of urls to be crawled
-urls = deque(['https://www.packtpub.com/'])
+urls = deque(['https://www.thesecuritysentinel.es'])
 
 # a set of urls that we have already crawled
 scraped_urls = set()

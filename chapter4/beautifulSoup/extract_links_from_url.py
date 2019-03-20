@@ -3,7 +3,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = input("Enter a website to extract the URL’s from: ")
+url = input("Enter a website to extract the URLs from: ")
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 response = requests.get("http://" +url, headers = headers)
