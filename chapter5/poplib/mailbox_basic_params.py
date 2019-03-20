@@ -33,7 +33,7 @@ if __name__ == '__main__':
         user = given_args.user
 
         import getpass 
-        password = getpass.getpass(prompt='Enter your password')
+        password = getpass.getpass(prompt='Enter your password:')
 
         main(hostname,port,user,password)
 

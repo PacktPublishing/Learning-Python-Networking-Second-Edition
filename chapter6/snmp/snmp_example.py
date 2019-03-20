@@ -3,7 +3,7 @@
 from pysnmp.entity.rfc3413.oneliner import cmdgen
 
 SNMP_HOST = 'demo.snmplabs.com'
-SNMP_PORT = 161
+SNMP_PORT = 1161
 SNMP_COMMUNITY = 'public'
 
 if __name__ == '__main__':

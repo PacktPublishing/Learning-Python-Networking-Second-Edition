@@ -7,9 +7,14 @@ import smtplib
 # create message object instance
 message = MIMEMultipart()
 
+import getpass
+
+username = input('Enter your username:')
+password = getpass.getpass(prompt='Enter your password:')
+
 # setup the parameters of the message
-message['From'] = "user@domain"
-message['To'] = "user@domain"
+message['From'] = username
+message['To'] = username
 message['Subject'] = "Subject"
  
 # add in the message body
@@ -20,7 +25,7 @@ server = smtplib.SMTP('smtp.gmail.com: 587')
 server.starttls()
  
 # Login Credentials for sending the mail
-server.login(message['From'], "password")
+server.login(message['From'], password)
  
  # send the message via the server.
 server.sendmail(message['From'], message['To'], message.as_string())
