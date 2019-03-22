@@ -14,5 +14,5 @@ class Handler(tornado.web.RequestHandler):
 
 if __name__ == '__main__':
 	app = tornado.web.Application([tornado.web.url(r"/", Handler)])
-	app.listen(8080)
+	app.listen(8082)
 	tornado.ioloop.IOLoop.current().start()
