@@ -1,6 +1,6 @@
 # Learning Python Networking - Second Edition
 
-<a href="https://www.packtpub.com/networking-and-servers/learning-python-networking-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789958096 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/58096_cover_0.png" alt="Learning Python Networking - Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/learning-python-networking-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789958096 "><img src="https://static.packt-cdn.com/products/9781789958096/cover/smaller" alt="Learning Python Networking - Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Learning Python Networking - Second Edition](https://www.packtpub.com/networking-and-servers/learning-python-networking-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789958096 ), published by Packt.
 
